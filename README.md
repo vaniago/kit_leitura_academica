@@ -1,4 +1,4 @@
-# claude-skills-vania
+# kit_leitura_academica
 
 Coleção de skills para o Claude voltadas ao estudo e à análise de textos
 acadêmicos, desenvolvidas para uso em contexto de ensino e pesquisa.
@@ -7,7 +7,7 @@ acadêmicos, desenvolvidas para uso em contexto de ensino e pesquisa.
 
 | Skill | O que faz |
 |---|---|
-| [`leitura-analitica-severino/`](./leitura-analitica-severino/) | Conduz a leitura analítica de um texto acadêmico e gera um fichamento, seguindo o método de Antônio Joaquim Severino (*Metodologia do Trabalho Científico*). Entrega um documento de análise para consulta posterior. |
+| [`leitura-analitica-severino/`](./leitura-analitica-severino/) | Conduz a leitura analítica de um texto acadêmico e gera um fichamento, seguindo o método de Antônio Joaquim Severino (SEVERINO, Antônio Joaquim. _Metodologia do trabalho científico_. 24. ed. rev. e ampl. São Paulo: Cortez, 2017.). Entrega um documento de análise para consulta posterior. |
 | [`tutor-de-texto/`](./tutor-de-texto/) | Conduz uma sessão de estudo interativa e conversacional, ponto a ponto, até que a pessoa consiga explicar o núcleo do artigo com as próprias palavras. Foco no processo de tutoria, não apenas no documento final. |
 
 As duas skills são complementares: `tutor-de-texto` é útil para uma
