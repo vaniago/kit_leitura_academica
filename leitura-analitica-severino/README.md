@@ -20,6 +20,8 @@ entrega o resultado em um dos seis formatos de saída:
 Também pode gerar, como entregável opcional, um mapa conceitual em formato
 de importação do CmapTools.
 
+O CmapTools está disponível [aqui](https://cmap.ihmc.us/)
+
 ## Instalação
 
 Copie a pasta `leitura-analitica-severino/` (contendo `SKILL.md`) para o
