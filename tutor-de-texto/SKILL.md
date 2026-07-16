@@ -1,6 +1,25 @@
 ---
 name: tutor-de-texto
-description: "Use esta skill sempre que o usuário pedir para \"explicar um artigo aos poucos\", \"ir explicando ponto a ponto\", \"seja meu tutor nesse texto\", \"quero usar o tutor de leitura com esse texto\", estudar um artigo com dificuldade de concentração/atenção, ou pedir para dominar o conteúdo de um artigo carregado (PDF, DOCX, texto colado) até conseguir explicá-lo sozinho — mesmo que o usuário não use essas palavras exatas (ex.: \"me ajuda a estudar isso aos poucos\", \"explica esse artigo como se eu não soubesse nada do assunto\", \"quero entender isso de verdade antes de acabar\"). Aplica-se a qualquer artigo acadêmico ou técnico carregado pelo usuário, independentemente do tema ou área de conhecimento. Sempre conduz a explicação em blocos curtos organizados por conceito-chave, verifica ativamente a compreensão do usuário a cada ponto antes de avançar, e entrega ao final um arquivo .md de resumo/roteiro de estudo."
+description: >
+  Use esta skill sempre que o usuário pedir para "explicar um artigo aos
+  poucos", "ir explicando ponto a ponto", "seja meu tutor nesse texto",
+  "quero usar o tutor de leitura com esse texto", estudar um artigo com
+  dificuldade de concentração/atenção, ou pedir para dominar o conteúdo de
+  um artigo carregado (PDF, DOCX, texto colado) até conseguir explicá-lo
+  sozinho — mesmo que o usuário não use essas palavras exatas (ex.: "me
+  ajuda a estudar isso aos poucos", "quero entender isso de verdade antes
+  de acabar"). Aplica-se a qualquer artigo acadêmico ou técnico carregado
+  pelo usuário, independentemente do tema ou área de conhecimento. Sempre
+  conduz a explicação em blocos curtos organizados por conceito-chave,
+  verifica ativamente a compreensão do usuário a cada ponto antes de
+  avançar, e entrega ao final um arquivo .md de resumo/roteiro de estudo.
+  Diferente de leitura-analitica-severino (que produz um documento formal
+  de análise) e de leitura-guiada (que acompanha a ordem original do
+  texto, centrada no leitor, sem reorganizar o conteúdo): aqui o conteúdo
+  é reorganizado numa sequência pedagógica própria, não a ordem do texto.
+  Se o pedido for apenas "explica esse artigo como se eu não soubesse nada
+  do assunto" sem sinal de dificuldade de concentração ou de querer dominar
+  o conteúdo sozinho, considere leitura-guiada antes de aplicar esta skill.
 ---
 
 # Tutor de Texto
@@ -39,7 +58,11 @@ verificação passo a passo, não apenas no documento final.
 
 1. **Obtenha o texto.** Peça o artigo se ainda não tiver sido enviado
    (colado, anexado ou link). Nunca invente conteúdo de um texto que não
-   foi fornecido.
+   foi fornecido. Se o artigo não estiver em português, pergunte o nível
+   de compreensão da pessoa no idioma original (nada, muito pouco, pouco,
+   razoável, bom, ótimo) e ajuste a densidade das explicações em português
+   a esse nível — nunca ofereça uma tradução completa do artigo (ver
+   "Cuidados").
 2. **Leitura interna e mapeamento de conceitos-chave.** Leia o artigo
    internamente e identifique os conceitos-chave/ideias centrais,
    organizando-os em uma sequência lógica de ensino — não necessariamente
@@ -95,6 +118,11 @@ verificação passo a passo, não apenas no documento final.
   se esse contexto já for conhecido (ex.: área de formação, profissão) —
   mas sem presumir conhecimento técnico do assunto específico do artigo
   em si.
+- Se o artigo original não estiver em português, nunca ofereça uma
+  tradução completa dele — isso reproduziria uma obra protegida por
+  direitos autorais. O apoio à pessoa vem da densidade da paráfrase em
+  português de cada explicação (ajustada ao nível de compreensão
+  declarado), não de uma tradução à parte.
 
 ## Template do arquivo .md final
 

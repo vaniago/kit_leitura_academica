@@ -5,11 +5,18 @@ description: >
   "ficha de leitura", "resumo crítico de texto acadêmico", "análise de texto"
   filosófico/científico, ou pedir ajuda para estudar, resumir ou tirar notas
   estruturadas de um texto acadêmico — mesmo que não mencione "Severino" ou
-  "fichamento" explicitamente (ex.: "me ajuda a entender esse artigo",
-  "resume esse capítulo de forma acadêmica", "preciso estudar esse texto pra
-  prova", "quero fazer uma leitura analítica desse texto"). A skill aplica o método de leitura analítica de Antônio Joaquim
+  "fichamento" explicitamente (ex.: "resume esse capítulo de forma acadêmica",
+  "preciso estudar esse texto pra prova", "quero fazer uma leitura analítica
+  desse texto"). A skill aplica o método de leitura analítica de Antônio Joaquim
   Severino (Metodologia do Trabalho Científico) e sempre entrega o resultado
-  como um arquivo markdown (.md) pronto para download.
+  como um arquivo markdown (.md) pronto para download. Diferente de
+  tutor-de-texto (sessão interativa que reorganiza o conteúdo numa sequência
+  pedagógica própria) e de leitura-guiada (acompanhamento sequencial do texto,
+  centrado no leitor, sem aplicar um método formal de análise): esta skill
+  entrega um documento de análise estruturado. Se o pedido for só "me ajuda a
+  entender esse artigo" ou "me acompanha na leitura", sem indicar que o
+  usuário quer um documento de análise formal, considere tutor-de-texto ou
+  leitura-guiada antes de aplicar esta skill.
 ---
 
 # Leitura Analítica e Fichamento — Método Severino
@@ -28,7 +35,11 @@ rev. e ampl. São Paulo: Cortez, 2017.
 
 1. **Obtenha o texto.** Se o usuário não colou ou anexou o texto, peça que
    envie (cole o trecho, anexe um PDF/DOCX ou indique o link). Não invente
-   conteúdo de um texto que não foi fornecido.
+   conteúdo de um texto que não foi fornecido. Se o texto não estiver em
+   português, pergunte o nível de compreensão do usuário no idioma original
+   (nada, muito pouco, pouco, razoável, bom, ótimo) e ajuste a densidade das
+   paráfrases no fichamento a esse nível — nunca produza uma tradução
+   completa do texto (ver "Cuidados").
 2. **Delimite a unidade de leitura.** Se o texto for longo (mais que um
    capítulo curto), pergunte se o usuário quer fichar o texto inteiro ou uma
    unidade específica (um capítulo, uma seção, um conjunto de parágrafos).
@@ -374,3 +385,8 @@ origem do conteúdo:
   de preencher, ou registre sua dúvida ou lacuna no relatório final.
 - Sempre confirme o nome do arquivo/título antes de gerar, se o usuário não
   tiver indicado um.
+- Se o texto original não estiver em português, nunca produza uma tradução
+  completa dele como parte do fichamento — isso reproduziria uma obra
+  protegida por direitos autorais. O apoio ao usuário vem da densidade da
+  paráfrase em português (ajustada ao nível de compreensão declarado), não
+  de uma tradução à parte.
