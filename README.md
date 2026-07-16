@@ -47,6 +47,34 @@ Para usar uma skill no Claude, copie a pasta correspondente (contendo o
 `SKILL.md`) para o diretório de skills do usuário, ou gere um pacote
 `.skill`/`.zip` a partir dela para distribuição/instalação.
 
+**Opção 1 — pelo Claude no navegador (claude.ai):**
+
+1. Compacte a pasta da skill (contendo o `SKILL.md`) em um `.zip`:
+   ```
+   cd leitura-guiada && zip -r ../leitura-guiada.zip .
+   ```
+2. No claude.ai, vá em **Configurações → Habilidades (Capabilities) →
+   Adicionar habilidade**.
+3. Faça o upload do `.zip` gerado.
+
+**Opção 2 — copiar a pasta direto (Claude Code):**
+
+1. Localize o diretório de skills do usuário: `~/.claude/skills/` (crie-o
+   se ainda não existir).
+2. Copie a pasta da skill desejada para dentro dele, por exemplo:
+   ```
+   cp -r leitura-guiada ~/.claude/skills/
+   ```
+3. Reinicie o Claude Code (ou abra uma nova sessão) para que a skill seja
+   carregada.
+
+**Opção 3 — empacotar como `.skill`/`.zip` para distribuir a terceiros:**
+
+1. Compacte a pasta da skill do mesmo jeito da Opção 1.
+2. Compartilhe o arquivo gerado com quem for instalar.
+3. Quem receber pode usar tanto a Opção 1 (upload pelo navegador) quanto
+   a Opção 2 (`~/.claude/skills/`), conforme onde for usar o Claude.
+
 ## Licença
 
 MIT — ver [LICENSE](./LICENSE).
