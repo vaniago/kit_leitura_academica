@@ -7,7 +7,7 @@ description: >
   estruturadas de um texto acadêmico — mesmo que não mencione "Severino" ou
   "fichamento" explicitamente (ex.: "me ajuda a entender esse artigo",
   "resume esse capítulo de forma acadêmica", "preciso estudar esse texto pra
-  prova"). A skill aplica o método de leitura analítica de Antônio Joaquim
+  prova", "quero fazer uma leitura analítica desse texto"). A skill aplica o método de leitura analítica de Antônio Joaquim
   Severino (Metodologia do Trabalho Científico) e sempre entrega o resultado
   como um arquivo markdown (.md) pronto para download.
 ---
