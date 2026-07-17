@@ -6,6 +6,12 @@ gera um fichamento, seguindo o roteiro de Antônio Joaquim Severino em
 
 ## O que faz
 
+Diferente do `tutor-de-texto` (sessão interativa que reorganiza o
+conteúdo numa sequência pedagógica própria) e do `leitura-guiada`
+(acompanhamento sequencial do texto, centrado no leitor, sem aplicar um
+método formal de análise), esta skill entrega um documento de análise
+estruturado.
+
 Conduz internamente as cinco etapas do método (análise textual, análise
 temática, análise interpretativa, problematização e síntese pessoal) e
 entrega o resultado em um dos seis formatos de saída:

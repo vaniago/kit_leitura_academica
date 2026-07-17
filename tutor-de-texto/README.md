@@ -6,8 +6,11 @@ a pessoa consiga explicar o núcleo do texto com as próprias palavras.
 
 ## O que faz
 
-Diferente de um fichamento (que produz um documento de análise para
-consulta posterior), esta skill foca no **processo** de tutoria:
+Diferente do `leitura-analitica-severino` (que produz um documento formal
+de análise) e do `leitura-guiada` (que acompanha a ordem original do
+texto, centrado no leitor, sem reorganizar o conteúdo), esta skill foca
+no **processo** de tutoria, reorganizando o conteúdo numa sequência
+pedagógica própria:
 
 1. Mapeia os conceitos-chave do texto e organiza uma sequência lógica de
    ensino.
