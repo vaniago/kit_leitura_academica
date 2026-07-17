@@ -5,7 +5,7 @@ acadêmicos, desenvolvidas para uso em contexto de ensino e pesquisa.
 
 ## Motivação
 
-O estudo de textos acadêmicos exige metodologia. Com o avanço dos LLM (large language models de inteligência artificial), tornou-se comum o **_lsl_** - ler sem ler - em que a pessoa lança o texto para o LLM e colhe um resumo, um fichamento, sem se envolver com o processo de pensamento que leva ao produto acadêmico. Esse kit contém habilidades (skills) de leitura de diversos tipos, que tentam cobrir diferentes necessidades de quem lê, de modo a permitir um processo interativo e dialogal do entendimento, interpretação e produção a partir da leitura.
+O estudo de textos acadêmicos exige metodologia. Com o avanço dos LLM (large language models de inteligência artificial), tornou-se comum o **_lsl_** - ler sem ler - em que a pessoa lança o texto para o LLM e colhe um resumo, um fichamento, sem se envolver com o processo de pensamento que leva ao produto acadêmico. Esse kit contém habilidades (skills) de leitura de diversos tipos, que tentam cobrir diferentes necessidades de quem lê, de modo a permitir um processo interativo e dialogal do entendimento, interpretação e produção a partir da leitura. Essas habilidades (skills) se dirigem ao público em geral, as foram pensadas para estudantes de ensino médio e início de ensino superior, por isso, partem de uma visão didática, que pode ser dispensada por pessoas com mais experiência em leitura.
 
 ## Skills
 
