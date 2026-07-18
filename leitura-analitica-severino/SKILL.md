@@ -12,11 +12,13 @@ description: >
   como um arquivo markdown (.md) pronto para download. Diferente de
   tutor-de-texto (sessão interativa que reorganiza o conteúdo numa sequência
   pedagógica própria) e de leitura-guiada (acompanhamento sequencial do texto,
-  centrado no leitor, sem aplicar um método formal de análise): esta skill
+  centrado na pessoa, sem aplicar um método formal de análise): esta skill
   entrega um documento de análise estruturado. Se o pedido for só "me ajuda a
   entender esse artigo" ou "me acompanha na leitura", sem indicar que o
   usuário quer um documento de análise formal, considere tutor-de-texto ou
-  leitura-guiada antes de aplicar esta skill.
+  leitura-guiada antes de aplicar esta skill. Se o texto não estiver
+  digitalizado (só o livro físico, sem PDF/cópia disponível), use
+  leitura-livro-didatico-sem-digitalizacao em vez desta.
 ---
 
 # Leitura Analítica e Fichamento — Método Severino
@@ -81,8 +83,8 @@ buscar esgotar a compreensão. Nesta etapa, levante e registre:
   que o texto se insere).
 - **Vocabulário e conceitos-chave** que precisam de esclarecimento para a
   compreensão do texto. Esteja atento ao vocabulário técnico e específico
-  da área de conhecimento do texto e considere que o leitor é sempre um
-  iniciante no tema.
+  da área de conhecimento do texto e considere que a pessoa é sempre
+  uma iniciante no tema.
 - **Referências** a fatos históricos, outros autores ou doutrinas
   mencionados que exigem contextualização.
 
@@ -131,7 +133,7 @@ Levantamento de questionamentos próprios sobre o texto, devem ser registrados:
 - Perguntas que o texto suscita e que mereceriam mais discussão.
 - Que novos problemas de pesquisa a leitura desse texto faz perceber.
 - Não confundir com a "determinação do problema" da etapa 2 — aqui o
-  questionamento é do leitor sobre o texto, não do autor sobre o mundo.
+  questionamento é da pessoa sobre o texto, não do autor sobre o mundo.
 
 ### 5. Síntese pessoal
 Fechamento crítico do processo. A avaliação de coerência interna é a
@@ -145,12 +147,12 @@ ser registrados:
     verdadeiras ou, no mínimo, verificáveis?
 - **Originalidade e contribuição**: o texto traz algo além da retomada de
   ideias de outros autores?
-- **Posição pessoal do leitor** diante do que foi lido.
+- **Posição pessoal** diante do que foi lido.
 
 ## Modo de condução das etapas 3, 4 e 5
 
 As etapas de análise interpretativa, problematização e síntese pessoal
-dependem do posicionamento do próprio leitor — não são algo que o Claude
+dependem do posicionamento da própria pessoa — não são algo que o Claude
 deva simplesmente inventar em nome do usuário. Quando o formato de saída
 for resenha completa (e) ou analítico integral (f), pergunte ao usuário
 qual dos três modos prefere. Em qualquer um dos três, **o documento final
@@ -171,7 +173,7 @@ Nessa conversa, o Claude pode:
 - apontar possíveis "furos" ou tensões na coerência interna do argumento,
   para o usuário confirmar, refutar ou completar;
 - levantar pontos de originalidade a considerar;
-- sugerir itens/eixos para o posicionamento pessoal do leitor (concordância,
+- sugerir itens/eixos para o posicionamento pessoal (concordância,
   discordância, aplicação prática, limites do argumento, etc.).
 O fichamento final registra as respostas e escolhas do usuário, não as
 sugestões do Claude tomadas como se fossem a opinião dele.
@@ -191,10 +193,10 @@ texto e preenche diretamente as etapas 3, 4 e 5 com sua própria leitura
 especializada, respondendo objetivamente a perguntas como: que teorias e
 doutrinas o autor segue; a que debate o texto se filia; com que obras
 semelhantes pode ser comparado; qual o nível de dificuldade de leitura;
-a que tipo de leitor o texto se dirige; e a avaliação de coerência interna
+a que tipo de pessoa o texto se dirige; e a avaliação de coerência interna
 (as quatro perguntas da etapa 5). Deixe explícito no documento que esse
 conteúdo é a leitura especializada do Claude, não a posição pessoal do
-leitor — e mantenha em aberto o campo "posição pessoal do leitor" da etapa
+usuário — e mantenha em aberto o campo "posição pessoal" da etapa
 5 para o usuário preencher depois, já que esse item não pode ser suprido
 por uma leitura especializada externa.
 
@@ -220,7 +222,7 @@ interna, pontos de originalidade, eixos de posicionamento pessoal).
   preencher depois com sua posição.
 
 Essa seção nunca substitui as etapas 3, 4 e 5 do template — ela é
-complementar, um registro do apoio oferecido ao leitor.
+complementar, um registro do apoio oferecido à pessoa.
 
 ## Tipos de fichamento (formatos de saída)
 
@@ -239,19 +241,19 @@ muito longas — no máximo frases curtas por trecho selecionado.
 Destaca apenas os pontos principais do texto (assunto, problema e tese),
 se possível em um único parágrafo, sem apresentar dados qualitativos ou
 quantitativos nem resultados detalhados. Não dispensa a consulta ao texto
-original — serve para o leitor decidir se vale a pena lê-lo na íntegra.
+original — serve para a pessoa decidir se vale a pena lê-lo na íntegra.
 Baseia-se nas etapas 1 e 2.
 
 ### d) Resumo informativo (NBR 6028)
 Mais completo que o indicativo: em até 500 palavras, apresenta finalidade,
 metodologia (quando aplicável), resultados e conclusões do texto, de forma
 que possa, em algum grau, dispensar a consulta ao original. Ainda assim,
-sem opinião do leitor e sem citações diretas. Baseia-se nas etapas 1 e 2.
+sem opinião da pessoa e sem citações diretas. Baseia-se nas etapas 1 e 2.
 
 ### e) Resenha completa / Resumo crítico (NBR 6028)
-Resumo do conteúdo **mais** avaliação crítica do leitor — equivale, na
+Resumo do conteúdo **mais** avaliação crítica da pessoa — equivale, na
 prática, a apresentar as etapas 2, 3 e 5 de forma corrida e em prosa. Por
-depender da manifestação do leitor (etapas 3 a 5), só deve ser produzido
+depender da manifestação da pessoa (etapas 3 a 5), só deve ser produzido
 depois de conduzir o modo de condução escolhido (ver seção acima) — não é
 possível gerar um resumo crítico legítimo sem essa etapa de posicionamento.
 
@@ -277,7 +279,7 @@ Exemplo (ilustrativo, não literal de nenhum texto específico):
 ```
 LEITURA ANALÍTICA	organiza-se em	CINCO ETAPAS
 ANÁLISE TEXTUAL	precede	ANÁLISE TEMÁTICA
-PROBLEMATIZAÇÃO	depende de	POSICIONAMENTO DO LEITOR
+PROBLEMATIZAÇÃO	depende de	POSICIONAMENTO DA PESSOA
 ```
 
 **Como construir:**
@@ -322,10 +324,10 @@ referência no topo:
 - Conclusão:
 
 ## 3. Análise interpretativa (crítica externa)
-- Pressupostos do autor:
+- Pressupostos do texto:
 - Hipóteses/doutrinas com que se identifica ou a que se contrapõe:
 - Situação no debate/tradição de pensamento:
-- Comparações com outros autores (se houver):
+- Comparações com outras(os) autoras(es) (se houver):
 
 ## 4. Problematização
 - Questionamentos levantados:
@@ -337,7 +339,7 @@ referência no topo:
 - Os argumentos demonstram a solução?
 - Os argumentos são válidos e as informações verificáveis?
 - Originalidade e contribuição:
-- Posição pessoal do leitor:
+- Posição pessoal:
 
 ## Orientações para resenha/resumo crítico
 *(apenas nos formatos e/f — resenha completa e analítico integral)*
@@ -373,7 +375,7 @@ origem do conteúdo:
 - **Modo 3 (método direto):** as seções 3 e 4 são preenchidas diretamente
   pelo Claude como leitura especializada; na seção 5, a avaliação de
   coerência interna e a originalidade também são preenchidas pelo Claude,
-  mas o campo "posição pessoal do leitor" fica em aberto para o usuário.
+  mas o campo "posição pessoal" fica em aberto para o usuário.
 
 ## Cuidados
 

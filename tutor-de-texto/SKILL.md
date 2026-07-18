@@ -15,11 +15,13 @@ description: >
   avançar, e entrega ao final um arquivo .md de resumo/roteiro de estudo.
   Diferente de leitura-analitica-severino (que produz um documento formal
   de análise) e de leitura-guiada (que acompanha a ordem original do
-  texto, centrada no leitor, sem reorganizar o conteúdo): aqui o conteúdo
+  texto, centrada na pessoa, sem reorganizar o conteúdo): aqui o conteúdo
   é reorganizado numa sequência pedagógica própria, não a ordem do texto.
   Se o pedido for apenas "explica esse artigo como se eu não soubesse nada
   do assunto" sem sinal de dificuldade de concentração ou de querer dominar
   o conteúdo sozinho, considere leitura-guiada antes de aplicar esta skill.
+  Se o texto não estiver digitalizado (só o livro físico, sem PDF/cópia
+  disponível), use leitura-livro-didatico-sem-digitalizacao em vez desta.
 ---
 
 # Tutor de Texto
@@ -29,8 +31,8 @@ em textos longos, por um artigo acadêmico ou técnico, ponto a ponto, até
 que ela seja capaz de explicar o núcleo do conteúdo e compreender todos os
 aspectos relevantes do texto.
 
-Diferente de um fichamento (que produz um documento de análise para o
-leitor consultar depois), esta skill conduz uma **sessão de estudo
+Diferente de um fichamento (que produz um documento de análise para a
+pessoa consultar depois), esta skill conduz uma **sessão de estudo
 interativa e conversacional** — o valor está no processo de explicação e
 verificação passo a passo, não apenas no documento final.
 

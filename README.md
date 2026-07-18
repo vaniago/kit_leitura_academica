@@ -14,8 +14,9 @@ O estudo de textos acadêmicos exige metodologia. Com o avanço dos LLM (large l
 | [`leitura-analitica-severino/`](./leitura-analitica-severino/) | Conduz a leitura analítica de um texto acadêmico e gera um fichamento, seguindo o método de Antônio Joaquim Severino (SEVERINO, Antônio Joaquim. _Metodologia do trabalho científico_. 24. ed. rev. e ampl. São Paulo: Cortez, 2017.). Entrega um documento de análise para consulta posterior. | "Quero fazer uma leitura analítica desse texto" |
 | [`tutor-de-texto/`](./tutor-de-texto/) | Conduz uma sessão de estudo interativa e conversacional, ponto a ponto, até que a pessoa consiga explicar o núcleo do artigo com as próprias palavras. Foco no processo de tutoria, não apenas no documento final. | "Quero usar o tutor de leitura com esse texto" |
 | [`leitura-guiada/`](./leitura-guiada/) | Acompanha o leitor numa leitura sequencial do texto, seção por seção, na própria ordem em que ele se desenrola — centrada no leitor e no seu contexto, não num método de análise nem numa reorganização pedagógica do conteúdo. | "Quero fazer uma leitura guiada com esse texto" |
+| [`leitura-livro-didatico-sem-digitalizacao/`](./leitura-livro-didatico-sem-digitalizacao/) | Acompanha o leitor na leitura de um capítulo de livro didático impresso quando não há versão digitalizada do texto — o Claude não tem acesso ao conteúdo além do que o leitor relatar, e gera um relatório de sessão com evidências de leitura real, pronto para anexar como tarefa. | "Vou fazer minha leitura semanal, só tenho o livro físico" |
 
-As três skills são complementares e podem ser usadas em combinação ou
+As quatro skills são complementares e podem ser usadas em combinação ou
 isoladamente, conforme o objetivo:
 - `leitura-guiada` é útil para acompanhar uma primeira leitura do texto na
   própria ordem em que ele se desenrola, adaptada ao contexto do leitor;
@@ -23,7 +24,10 @@ isoladamente, conforme o objetivo:
   para quem quer dominar o núcleo do artigo antes de mais nada;
 - `leitura-analitica-severino` produz o registro formal de análise
   (fichamento), depois que o texto já foi trabalhado ou de forma
-  independente, para quem já tem domínio de leitura acadêmica.
+  independente, para quem já tem domínio de leitura acadêmica;
+- `leitura-livro-didatico-sem-digitalizacao` é a alternativa às três
+  anteriores quando o texto não está digitalizado — todas as outras
+  partem de um texto colado, anexado ou por link.
 
 ## Estrutura do repositório
 
@@ -37,7 +41,10 @@ kit_leitura_academica/
 ├── tutor-de-texto/
 │   ├── SKILL.md
 │   └── README.md
-└── leitura-guiada/
+├── leitura-guiada/
+│   ├── SKILL.md
+│   └── README.md
+└── leitura-livro-didatico-sem-digitalizacao/
     ├── SKILL.md
     └── README.md
 ```

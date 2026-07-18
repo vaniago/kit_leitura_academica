@@ -23,7 +23,7 @@ o caminho que o texto percorre, centrada no leitor e no seu contexto:
 6. Gera um arquivo `.md` com o relatório da sessão e recomendações de
    leitura complementar (de fundamentos e por interesse espontâneo).
 
-Pensada especialmente para alunos de ensino técnico ou médio, alunos de
+Pensada especialmente para estudantes de ensino técnico ou médio, estudantes de
 início de graduação, ou qualquer pessoa leiga no assunto do texto mas que
 já lê e compreende texto normalmente.
 
