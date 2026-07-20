@@ -1,24 +1,20 @@
 ---
 name: leitura-analitica-severino
 description: >
-  Use esta skill sempre que o usuário pedir um "fichamento", "leitura analítica",
-  "ficha de leitura", "resumo crítico de texto acadêmico", "análise de texto"
-  filosófico/científico, ou pedir ajuda para estudar, resumir ou tirar notas
-  estruturadas de um texto acadêmico — mesmo que não mencione "Severino" ou
-  "fichamento" explicitamente (ex.: "resume esse capítulo de forma acadêmica",
-  "preciso estudar esse texto pra prova", "quero fazer uma leitura analítica
-  desse texto"). A skill aplica o método de leitura analítica de Antônio Joaquim
-  Severino (Metodologia do Trabalho Científico) e sempre entrega o resultado
-  como um arquivo markdown (.md) pronto para download. Diferente de
-  tutor-de-texto (sessão interativa que reorganiza o conteúdo numa sequência
-  pedagógica própria) e de leitura-guiada (acompanhamento sequencial do texto,
-  centrado na pessoa, sem aplicar um método formal de análise): esta skill
-  entrega um documento de análise estruturado. Se o pedido for só "me ajuda a
-  entender esse artigo" ou "me acompanha na leitura", sem indicar que o
-  usuário quer um documento de análise formal, considere tutor-de-texto ou
-  leitura-guiada antes de aplicar esta skill. Se o texto não estiver
-  digitalizado (só o livro físico, sem PDF/cópia disponível), use
-  leitura-livro-didatico-sem-digitalizacao em vez desta.
+  Use esta skill sempre que o usuário pedir um "fichamento", "leitura
+  analítica", "ficha de leitura", "resumo crítico de texto acadêmico",
+  "análise de texto" filosófico/científico, ou pedir ajuda para estudar,
+  resumir ou tirar notas estruturadas de um texto acadêmico — mesmo sem
+  citar "Severino" ou "fichamento" (ex.: "resume esse capítulo de forma
+  acadêmica", "preciso estudar esse texto pra prova"). Aplica o método de
+  leitura analítica de Antônio Joaquim Severino (Metodologia do Trabalho
+  Científico) e sempre entrega um arquivo .md para download. Diferente de
+  tutor-de-texto (sessão interativa que reorganiza o conteúdo) e
+  leitura-guiada (acompanhamento sequencial, sem método formal de
+  análise): esta skill entrega um documento de análise estruturado. Se o
+  pedido for só "me ajuda a entender esse artigo", sem indicar documento
+  formal, considere tutor-de-texto ou leitura-guiada antes. Se o texto
+  não estiver digitalizado, use leitura-livro-didatico-sem-digitalizacao.
 ---
 
 # Leitura Analítica e Fichamento — Método Severino

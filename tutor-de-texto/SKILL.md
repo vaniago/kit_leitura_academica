@@ -3,25 +3,19 @@ name: tutor-de-texto
 description: >
   Use esta skill sempre que o usuário pedir para "explicar um artigo aos
   poucos", "ir explicando ponto a ponto", "seja meu tutor nesse texto",
-  "quero usar o tutor de leitura com esse texto", estudar um artigo com
-  dificuldade de concentração/atenção, ou pedir para dominar o conteúdo de
-  um artigo carregado (PDF, DOCX, texto colado) até conseguir explicá-lo
-  sozinho — mesmo que o usuário não use essas palavras exatas (ex.: "me
-  ajuda a estudar isso aos poucos", "quero entender isso de verdade antes
-  de acabar"). Aplica-se a qualquer artigo acadêmico ou técnico carregado
-  pelo usuário, independentemente do tema ou área de conhecimento. Sempre
-  conduz a explicação em blocos curtos organizados por conceito-chave,
-  verifica ativamente a compreensão do usuário a cada ponto antes de
-  avançar, e entrega ao final um arquivo .md de resumo/roteiro de estudo.
-  Diferente de leitura-analitica-severino (que produz um documento formal
-  de análise) e de leitura-guiada (que acompanha a ordem original do
-  texto, centrada na pessoa, sem reorganizar o conteúdo): aqui o conteúdo
-  é reorganizado numa sequência pedagógica própria, não a ordem do texto.
-  Se o pedido for apenas "explica esse artigo como se eu não soubesse nada
-  do assunto" sem sinal de dificuldade de concentração ou de querer dominar
-  o conteúdo sozinho, considere leitura-guiada antes de aplicar esta skill.
-  Se o texto não estiver digitalizado (só o livro físico, sem PDF/cópia
-  disponível), use leitura-livro-didatico-sem-digitalizacao em vez desta.
+  estudar um artigo com dificuldade de concentração/atenção, ou dominar o
+  conteúdo de um artigo carregado até conseguir explicá-lo sozinho — mesmo
+  sem essas palavras exatas (ex.: "quero entender isso de verdade").
+  Aplica-se a qualquer artigo acadêmico ou técnico carregado. Conduz a
+  explicação em blocos curtos por conceito-chave, verifica a compreensão a
+  cada ponto antes de avançar, e entrega um .md de resumo/roteiro de
+  estudo. Diferente de leitura-analitica-severino (documento formal de
+  análise) e leitura-guiada (acompanha a ordem original do texto, sem
+  reorganizar): aqui o conteúdo é reorganizado numa sequência pedagógica
+  própria. Se o pedido for só "explica esse artigo", sem sinal de
+  dificuldade de concentração ou de querer dominar o conteúdo sozinho,
+  considere leitura-guiada antes. Se o texto não estiver digitalizado, use
+  leitura-livro-didatico-sem-digitalizacao.
 ---
 
 # Tutor de Texto
