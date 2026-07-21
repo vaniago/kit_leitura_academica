@@ -26,12 +26,12 @@ com mais experiência em leitura.
 | Skill | O que faz | Gatilho típico |
 |---|---|---|
 | [`triagem-de-leitura/`](./triagem-de-leitura/) | Não conduz leitura — ajuda a escolher, entre as demais skills do kit, qual encaixa melhor com o texto e o objetivo de quem lê. Útil para quem não sabe por qual das seis começar. | "Não sei qual skill de leitura usar pra esse texto" |
-| [`leitura-analitica-severino/`](./leitura-analitica-severino/) | Conduz a leitura analítica de um texto acadêmico e gera um fichamento, seguindo o método de Antônio Joaquim Severino (SEVERINO, Antônio Joaquim. _Metodologia do trabalho científico_. 24. ed. rev. e ampl. São Paulo: Cortez, 2017.). Entrega um documento de análise para consulta posterior. | "Quero fazer uma leitura analítica desse texto" |
 | [`tutor-de-texto/`](./tutor-de-texto/) | Conduz uma sessão de estudo interativa e conversacional, ponto a ponto, até que a pessoa consiga explicar o núcleo do artigo com as próprias palavras. Foco no processo de tutoria, não apenas no documento final. | "Quero usar o tutor de leitura com esse texto" |
 | [`leitura-guiada/`](./leitura-guiada/) | Acompanha o leitor numa leitura sequencial do texto, seção por seção, na própria ordem em que ele se desenrola — centrada no leitor e no seu contexto, não num método de análise nem numa reorganização pedagógica do conteúdo. | "Quero fazer uma leitura guiada com esse texto" |
-| [`leitura-livro-didatico-sem-digitalizacao/`](./leitura-livro-didatico-sem-digitalizacao/) | Acompanha o leitor na leitura de um capítulo de livro didático impresso quando não há versão digitalizada do texto — o Claude não tem acesso ao conteúdo além do que o leitor relatar, e gera um relatório de sessão com evidências de leitura real, pronto para anexar como tarefa. | "Vou fazer minha leitura semanal, só tenho o livro físico" |
+| [`leitura-analitica-severino/`](./leitura-analitica-severino/) | Conduz a leitura analítica de um texto acadêmico e gera um fichamento, seguindo o método de Antônio Joaquim Severino (SEVERINO, Antônio Joaquim. _Metodologia do trabalho científico_. 24. ed. rev. e ampl. São Paulo: Cortez, 2017.). Entrega um documento de análise para consulta posterior. | "Quero fazer uma leitura analítica desse texto" |
 | [`leitura-cientifica-keshav/`](./leitura-cientifica-keshav/) | Acompanha a leitura de um único artigo científico usando o método das três passadas de S. Keshav (*How to Read a Paper*, 2007) — panorama, compreensão do conteúdo e leitura crítica, com a última calibrada pelo nível de experiência de quem lê. | "Quero aplicar o método das três passadas nesse paper" |
 | [`leitura-literaria-cosson/`](./leitura-literaria-cosson/) | Acompanha o estudo de uma obra literária (poema, conto, romance, crônica, peça) usando o letramento literário de Rildo Cosson — sequência básica (motivação, introdução, leitura, interpretação) ou expandida (com contextualização e expansão), sempre deixando a interpretação a cargo da própria pessoa. | "Quero estudar esse poema com o método do Cosson" |
+| [`leitura-livro-didatico-sem-digitalizacao/`](./leitura-livro-didatico-sem-digitalizacao/) | Acompanha o leitor na leitura de um capítulo de livro didático impresso quando não há versão digitalizada do texto — o Claude não tem acesso ao conteúdo além do que o leitor relatar, e gera um relatório de sessão com evidências de leitura real, pronto para anexar como tarefa. | "Vou fazer minha leitura semanal, só tenho o livro físico" |
 
 As sete skills são complementares e podem ser usadas em combinação ou
 isoladamente, conforme o objetivo:
@@ -66,22 +66,22 @@ kit_leitura_academica/
 ├── triagem-de-leitura/
 │   ├── SKILL.md
 │   └── README.md
-├── leitura-analitica-severino/
-│   ├── SKILL.md
-│   └── README.md
 ├── tutor-de-texto/
 │   ├── SKILL.md
 │   └── README.md
 ├── leitura-guiada/
 │   ├── SKILL.md
 │   └── README.md
-├── leitura-livro-didatico-sem-digitalizacao/
+├── leitura-analitica-severino/
 │   ├── SKILL.md
 │   └── README.md
 ├── leitura-cientifica-keshav/
 │   ├── SKILL.md
 │   └── README.md
-└── leitura-literaria-cosson/
+├── leitura-literaria-cosson/
+│   ├── SKILL.md
+│   └── README.md
+└── leitura-livro-didatico-sem-digitalizacao/
     ├── SKILL.md
     └── README.md
 ```
