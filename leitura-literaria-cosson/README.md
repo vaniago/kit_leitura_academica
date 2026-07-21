@@ -15,13 +15,16 @@ pessoa de interpretar a obra por conta própria.
 1. Pergunta se a pessoa já conhece o método de Cosson; se não conhecer,
    explica as duas sequências possíveis antes de deixar escolher.
 2. **Sequência básica (padrão):** motivação (conversa inicial sobre o
-   tema da obra) → introdução (dados sobre autor e obra) → leitura →
-   interpretação (impressão pessoal da pessoa sobre o que leu).
+   tema da obra) → introdução (dados sobre autor e obra) → leitura
+   acompanhada, com dúvidas esclarecidas e as partes já lidas debatidas ao
+   longo do processo, não só depois → interpretação (impressão pessoal da
+   pessoa sobre o que leu).
 3. **Sequência expandida (opcional):** os mesmos três primeiros passos,
    com a interpretação desdobrada em primeira interpretação →
-   contextualização (histórica, estilística, temática etc.) → segunda
-   interpretação (aprofundamento num aspecto específico da obra) →
-   expansão (relação com outras obras/experiências).
+   contextualização (histórica, teórica, estilística, poética, crítica,
+   temática ou presentificadora) → segunda interpretação (aprofundamento
+   num aspecto específico da obra) → expansão (relação com outras
+   obras/experiências).
 4. A etapa de Motivação pode ser pulada se já tiver sido feita
    presencialmente por um professor antes da sessão.
 5. Gera um relatório `.md` da sessão com o que a pessoa produziu em cada

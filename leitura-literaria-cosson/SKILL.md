@@ -113,9 +113,23 @@ quando a ferramenta estiver disponível; nunca invente. Sinalize
 abertamente qualquer incerteza sobre um dado específico.
 
 ### 5. Leitura
-A pessoa lê a obra por conta própria (silenciosamente, no próprio ritmo).
-Confirme que a leitura foi concluída antes de seguir para a interpretação
-— não avance sem essa confirmação.
+No método de Cosson, a leitura não é um bloco silencioso e solitário — é
+acompanhada, com dúvidas esclarecidas e as partes já lidas debatidas ao
+longo do processo, não só depois que a pessoa termina.
+
+- Combine com a pessoa como ela vai relatar o progresso: um poema ou
+  conto curto pode ser lido de uma vez só, com um relato ao final; uma
+  obra mais longa (romance, peça) vale a pena dividir em partes
+  (capítulos, atos, blocos de páginas), com um relato a cada parte.
+- Conforme a pessoa for contando o que leu, esclareça dúvidas de
+  vocabulário, contexto ou entendimento do enredo que surgirem — mas
+  **não avance para dar interpretação alguma aqui**; isso pertence à
+  etapa de Interpretação (ver "Princípio central").
+- Debata livremente sobre o que já foi lido — o que chamou atenção, o
+  que estranhou, uma dúvida sobre a trama — mantendo o registro leve de
+  conversa, sem se aprofundar ainda em análise formal.
+- Confirme que a obra inteira (ou a unidade combinada) foi lida antes de
+  seguir para a Interpretação — não avance sem essa confirmação.
 
 ### 6. Interpretação
 
@@ -129,7 +143,9 @@ atenção. Registre a resposta com as palavras literais da pessoa.
   geral e individual da obra, como ponto de partida.
 - **Contextualização**: ofereça uma ou mais contextualizações verificadas
   e relevantes à obra (histórica, teórica, estilística, poética, crítica,
-  temática), conforme o que fizer sentido para o texto em questão.
+  temática, presentificadora — esta última relaciona a obra com o presente,
+  o momento atual de quem lê), conforme o que fizer sentido para o texto em
+  questão.
 - **Segunda interpretação**: aprofunde em um aspecto específico da obra
   (um traço estilístico, uma personagem, um tema), agora à luz da
   contextualização oferecida — inclua articulação com outras obras
@@ -190,7 +206,10 @@ produziu em cada etapa — nunca uma interpretação escrita pelo Claude.
 [dados verificados sobre autor(a) e obra]
 
 ## Leitura
-[confirmação de que a leitura foi concluída]
+[confirmação de que a leitura foi concluída; dúvidas de vocabulário,
+contexto ou enredo esclarecidas ao longo do processo, e pontos debatidos
+sobre as partes já lidas — registrados por parte lida, se a obra foi
+dividida em partes]
 
 ## Interpretação
 ### Primeira interpretação / Interpretação
