@@ -38,16 +38,13 @@ isoladamente, conforme o objetivo:
 - `triagem-de-leitura` não é uma skill de leitura em si — é o ponto de
   entrada para quem tem um texto mas não sabe qual das outras seis
   encaixa melhor; faz algumas perguntas e recomenda uma delas;
-- `leitura-guiada` é útil para acompanhar uma primeira leitura do texto na
-  própria ordem em que ele se desenrola, adaptada ao contexto do leitor;
 - `tutor-de-texto` reorganiza o conteúdo numa sequência pedagógica própria,
   para quem quer dominar o núcleo do artigo antes de mais nada;
+- `leitura-guiada` é útil para acompanhar uma primeira leitura do texto na
+  própria ordem em que ele se desenrola, adaptada ao contexto do leitor;
 - `leitura-analitica-severino` produz o registro formal de análise
   (fichamento), depois que o texto já foi trabalhado ou de forma
   independente, para quem já tem domínio de leitura acadêmica;
-- `leitura-livro-didatico-sem-digitalizacao` é a alternativa às demais
-  quando o texto não está digitalizado — todas as outras partem de um
-  texto colado, anexado ou por link;
 - `leitura-cientifica-keshav` é específica para um único artigo/paper
   científico, estruturada em três releituras sucessivas de profundidade
   crescente (panorama, compreensão, leitura crítica), não em revisão de
@@ -55,8 +52,11 @@ isoladamente, conforme o objetivo:
 - `leitura-literaria-cosson` é específica para texto literário, não busca
   extrair um argumento ou tese (isso é papel das demais skills, pensadas
   para texto acadêmico/técnico/científico), e sim formar a capacidade da
-  pessoa de interpretar a obra por conta própria.
-
+  pessoa de interpretar a obra por conta própria;
+- `leitura-livro-didatico-sem-digitalizacao` é a alternativa às demais
+  quando o texto não está digitalizado — todas as outras partem de um
+  texto colado, anexado ou por link.
+  
 ## Estrutura do repositório
 
 ```
