@@ -292,6 +292,17 @@ PROBLEMATIZAÇÃO	depende de	POSICIONAMENTO DA PESSOA
   suficiente para capturar a estrutura conceitual sem sobrecarregar o mapa.
 - Evite conceitos redundantes ou triplas que apenas repitam a mesma
   relação com sinônimos.
+- **Use sempre o mesmo rótulo para o mesmo conceito** em todas as
+  proposições (mesma grafia, mesma forma) — variações como "alfabetização"
+  em uma linha e "alfabetização de adultos" em outra criam dois nós
+  diferentes onde deveria haver um só, fragmentando o mapa sem necessidade.
+- **Antes de salvar, verifique a conectividade do grafo**: organize as
+  proposições em torno de 3 a 5 conceitos-eixo (tema central, tese,
+  autor, problema), e confirme que todo conceito tem pelo menos um
+  caminho até algum desses eixos. Um mapa conceitual deve formar um
+  único grafo conectado — evite blocos temáticos que fiquem isolados uns
+  dos outros (ex.: uma cadeia de comparações com outros autores que não
+  se liga a nenhum conceito central).
 - Salve como arquivo `.txt` separado (não misture com o `.md` do
   fichamento), com um nome como `mapa-conceitual-[título].txt`.
 
