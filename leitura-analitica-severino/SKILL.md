@@ -52,7 +52,7 @@ rev. e ampl. São Paulo: Cortez, 2017.
    do tipo de fichamento escolhido.
 5. **Se o formato escolhido for resenha completa (e) ou analítico integral
    (f)**, pergunte também qual **modo de condução** o usuário prefere para
-   as etapas 3, 4 e 5 — diálogo, sugestões no documento ou método direto —
+   as etapas 3, 4 e 5 — diálogo ou sugestões no documento —
    ver seção "Modo de condução das etapas 3, 4 e 5" abaixo. O documento
    final é sempre o documento completo com as cinco etapas, independente do
    modo escolhido. Os demais formatos (bibliográfico, citações, resumo
@@ -151,7 +151,7 @@ As etapas de análise interpretativa, problematização e síntese pessoal
 dependem do posicionamento da própria pessoa — não são algo que o Claude
 deva simplesmente inventar em nome do usuário. Quando o formato de saída
 for resenha completa (e) ou analítico integral (f), pergunte ao usuário
-qual dos três modos prefere. Em qualquer um dos três, **o documento final
+qual dos dois modos prefere. Em qualquer um dos dois, **o documento final
 entregue é sempre o documento completo, com as cinco etapas** — o que muda
 entre os modos é apenas como o conteúdo das etapas 3, 4 e 5 é obtido, nunca
 a estrutura do arquivo final.
@@ -182,19 +182,6 @@ sequência reflexiva das etapas 3, 4 e 5 — nos mesmos eixos do Modo 1
 possíveis furos na coerência interna, pontos de originalidade, sugestões de
 posicionamento pessoal) — deixando claro que são sugestões de orientação, e
 não a análise pronta, para o usuário desenvolver por conta própria depois.
-
-### Modo 3 — Método direto (especialista)
-O caminho mais rápido: sem diálogo, o Claude atua como especialista no
-texto e preenche diretamente as etapas 3, 4 e 5 com sua própria leitura
-especializada, respondendo objetivamente a perguntas como: que teorias e
-doutrinas o autor segue; a que debate o texto se filia; com que obras
-semelhantes pode ser comparado; qual o nível de dificuldade de leitura;
-a que tipo de pessoa o texto se dirige; e a avaliação de coerência interna
-(as quatro perguntas da etapa 5). Deixe explícito no documento que esse
-conteúdo é a leitura especializada do Claude, não a posição pessoal do
-usuário — e mantenha em aberto o campo "posição pessoal" da etapa
-5 para o usuário preencher depois, já que esse item não pode ser suprido
-por uma leitura especializada externa.
 
 Se o usuário não indicar preferência, pergunte diretamente; não presuma um
 modo por padrão, já que mudam bastante o resultado final.
@@ -379,10 +366,6 @@ origem do conteúdo:
   gerado pelo Claude, com espaço logo abaixo de cada item para o usuário
   preencher; as seções 3, 4 e 5 ficam como campos em aberto para o usuário
   desenvolver depois, a partir dessas orientações.
-- **Modo 3 (método direto):** as seções 3 e 4 são preenchidas diretamente
-  pelo Claude como leitura especializada; na seção 5, a avaliação de
-  coerência interna e a originalidade também são preenchidas pelo Claude,
-  mas o campo "posição pessoal" fica em aberto para o usuário.
 
 ## Cuidados
 
