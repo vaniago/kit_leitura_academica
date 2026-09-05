@@ -1,20 +1,28 @@
 # kit_leitura_academica
 
-Coleção de skills para o Claude voltadas ao estudo e à análise de textos
-acadêmicos, desenvolvidas para uso em contexto de ensino e pesquisa.
+**Kit de skills de IA para leitura acadêmica, científica e literária no
+Claude** (Claude Code e claude.ai) — sete habilidades que ensinam e
+acompanham métodos de estudo de texto (fichamento, letramento literário,
+leitura crítica de artigos) em vez de substituir a leitura por um resumo
+pronto. Desenvolvido para uso em contexto de ensino e pesquisa, em
+português.
 
 ## Motivação
 
-O estudo de textos acadêmicos exige metodologia. 
+O estudo de textos acadêmicos exige metodologia.
 Com o avanço dos LLM (large language models de inteligência artificial), 
 tornou-se comum o **_lsl_** - ler sem ler - em que a pessoa lança o texto 
 para o LLM e colhe um resumo, um fichamento, sem se envolver com o processo 
 de pensamento que leva ao produto acadêmico. 
 
-Esse kit contém habilidades (skills) de leitura de diversos tipos, que buscam 
-cobrir diferentes necessidades de quem lê, de modo a permitir um processo 
-interativo e dialogal do entendimento, interpretação e produção a partir da 
-leitura, para que a pessoa possa efetivamente aprender ao ler.
+Esse kit contém habilidades (skills) de leitura de diversos tipos, baseadas
+em métodos de estudo reconhecidos — como o fichamento de Antônio Joaquim
+Severino, o método das três passadas de S. Keshav (*How to Read a Paper*)
+e o letramento literário de Rildo Cosson — adaptados para uso conversacional
+com IA. Elas buscam cobrir diferentes necessidades de quem lê, de modo a
+permitir um processo interativo e dialogal do entendimento, interpretação e
+produção a partir da leitura, para que a pessoa possa efetivamente aprender
+ao ler.
 
 Embora essas habilidades (skills) se dirijam ao público em geral, 
 elas foram pensadas para estudantes de ensino médio e início de ensino superior e, 
@@ -92,6 +100,45 @@ instalada separadamente a partir da sua própria pasta.
 
 ## Instalação
 
+### Antes de tudo: baixando os arquivos pelo navegador (sem usar Git)
+
+Quem não é acostumado com GitHub não precisa aprender a mexer com ele —
+dá para conseguir os arquivos direto pelo navegador, sem instalar nada
+além de um programa de descompactar (Windows e macOS já vêm com um).
+
+**Para baixar o kit inteiro (as sete skills de uma vez):**
+
+1. Nesta página do repositório no GitHub, clique no botão verde **Code**
+   (perto do topo da página).
+2. Clique em **Download ZIP**.
+3. Extraia o arquivo baixado:
+   - **Windows:** clique com o botão direito no `.zip` → **Extrair
+     tudo**.
+   - **macOS:** dê duplo clique no `.zip`.
+4. Você terá uma pasta (algo como `kit_leitura_academica-main`) com uma
+   subpasta para cada skill (`triagem-de-leitura/`, `tutor-de-texto/`
+   etc.) — cada uma dessas subpastas é a "pasta da skill" mencionada nas
+   instruções mais abaixo.
+
+**Para baixar só uma skill específica** (por exemplo, só
+`leitura-guiada/`), sem precisar do kit inteiro:
+
+- **Mais simples:** baixe o kit inteiro como acima e use apenas a
+  subpasta da skill desejada; as demais podem ser ignoradas ou
+  apagadas.
+- **Sem baixar o kit inteiro:** abra a pasta da skill neste repositório
+  no GitHub (por exemplo,
+  `https://github.com/vaniago/kit_leitura_academica/tree/main/leitura-guiada`),
+  copie esse endereço, cole em
+  [download-directory.github.io](https://download-directory.github.io)
+  e clique para baixar. Isso gera um `.zip` já contendo só aquela pasta
+  — pode pular direto para o passo de upload na Opção 1 abaixo, sem
+  precisar compactar nada de novo.
+
+  > `download-directory.github.io` é uma ferramenta gratuita e de
+  > código aberto mantida pela comunidade (não é da Anthropic nem do
+  > GitHub) que baixa apenas uma subpasta de um repositório público.
+
 **Recomendado: baixe o kit completo.** As seis skills de leitura cobrem
 situações diferentes (texto acadêmico genérico, artigo científico, obra
 literária, livro didático sem digitalização, foco no processo de tutoria,
@@ -112,31 +159,48 @@ distribuição/instalação.
 
 **Opção 1 — pelo Claude no navegador (claude.ai):**
 
-1. Compacte a pasta da skill (contendo o `SKILL.md`) em um `.zip`:
-   ```
-   cd leitura-guiada && zip -r ../leitura-guiada.zip .
-   ```
+1. Se você usou `download-directory.github.io` acima, já tem o `.zip`
+   pronto — pule para o passo 2. Senão, compacte a pasta da skill
+   (contendo o `SKILL.md`) em um `.zip`:
+   - **Windows:** clique com o botão direito na pasta → **Enviar para →
+     Pasta compactada** (ou, no PowerShell: `Compress-Archive -Path
+     .\leitura-guiada\* -DestinationPath .\leitura-guiada.zip`).
+   - **macOS:** clique com o botão direito na pasta → **Comprimir**.
+   - **Linux / terminal (macOS incluso):**
+     ```
+     cd leitura-guiada && zip -r ../leitura-guiada.zip .
+     ```
 2. No claude.ai, vá em **Configurações → Habilidades (Capabilities) →
    Adicionar habilidade**.
 3. Faça o upload do `.zip` gerado.
 
 **Opção 2 — copiar a pasta direto (Claude Code):**
 
-1. Localize o diretório de skills do usuário: `~/.claude/skills/` (crie-o
-   se ainda não existir).
-2. Copie a pasta da skill desejada para dentro dele, por exemplo:
-   ```
-   cp -r leitura-guiada ~/.claude/skills/
-   ```
+1. Localize o diretório de skills do usuário: `~/.claude/skills/`
+   (Linux/macOS) ou `%USERPROFILE%\.claude\skills\` no Windows — em
+   ambos os casos, crie a pasta `skills` se ela ainda não existir.
+2. Copie a pasta da skill desejada para dentro dele:
+   - **Linux/macOS:**
+     ```
+     cp -r leitura-guiada ~/.claude/skills/
+     ```
+   - **Windows (PowerShell):**
+     ```
+     New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\.claude\skills" | Out-Null
+     Copy-Item -Recurse -Path .\leitura-guiada -Destination "$env:USERPROFILE\.claude\skills\"
+     ```
 3. Reinicie o Claude Code (ou abra uma nova sessão) para que a skill seja
    carregada.
 
 **Opção 3 — empacotar como `.skill`/`.zip` para distribuir a terceiros:**
 
-1. Compacte a pasta da skill do mesmo jeito da Opção 1.
+1. Compacte a pasta da skill do mesmo jeito da Opção 1 (no sistema
+   operacional de quem estiver empacotando).
 2. Compartilhe o arquivo gerado com quem for instalar.
 3. Quem receber pode usar tanto a Opção 1 (upload pelo navegador) quanto
-   a Opção 2 (`~/.claude/skills/`), conforme onde for usar o Claude.
+   a Opção 2 (pasta de skills local), conforme onde for usar o Claude e
+   qual for o sistema operacional — o `.zip` funciona nos dois casos,
+   em qualquer sistema.
 
 ## Licença
 
