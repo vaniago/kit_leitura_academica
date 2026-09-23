@@ -12,16 +12,29 @@ texto, centrado no leitor, sem reorganizar o conteúdo), esta skill foca
 no **processo** de tutoria, reorganizando o conteúdo numa sequência
 pedagógica própria:
 
-1. Mapeia os conceitos-chave do texto e organiza uma sequência lógica de
-   ensino.
-2. Apresenta um mapa breve da jornada de estudo.
-3. Explica um conceito por vez, em linguagem acessível, com analogias.
-4. Verifica ativamente a compreensão da pessoa antes de avançar — nunca
-   pula essa checagem.
-5. Reforça pontos com lacuna antes de seguir adiante.
-6. Ao final, valida se a pessoa consegue sintetizar tema, problema, tese e
+1. Sugere uma leitura panorâmica inicial do texto inteiro (opcional,
+   rápida, sem exigir compreensão) para dar uma visão geral antes de
+   começar.
+2. Mapeia os conceitos-chave do texto (um por ideia, não por seção —
+   seções densas viram vários pontos) e organiza uma sequência lógica de
+   ensino, priorizando cobrir todos os aspectos relevantes mesmo que isso
+   alongue a sessão.
+3. Apresenta um mapa breve da jornada de estudo.
+4. Explica um conceito por vez, em linguagem acessível, com analogias —
+   no ritmo do leitor, nunca com pressa de avançar.
+5. Verifica ativamente a compreensão da pessoa antes de avançar — nunca
+   pula essa checagem, e só a faz depois de ter explicado o conceito por
+   inteiro.
+6. Reforça pontos com lacuna antes de seguir adiante.
+7. Antes de encerrar, oferece uma releitura panorâmica final (opcional)
+   e pergunta diretamente se restam dúvidas, esclarecendo-as antes de
+   seguir.
+8. Valida se a pessoa consegue sintetizar tema, problema, tese e
    conclusão do artigo.
-7. Gera um arquivo `.md` com o roteiro de estudo da sessão.
+9. Gera um arquivo `.md` com o roteiro de estudo da sessão, registrando
+   à parte qualquer lacuna que a própria pessoa teve que apontar (em vez
+   de confundir isso com um simples reforço por dificuldade de
+   compreensão) e quaisquer dúvidas levantadas no fechamento.
 
 Pensada especialmente para quem tem dificuldade de manter atenção em
 textos longos, mas é genérica: aplica-se a qualquer artigo, de qualquer
