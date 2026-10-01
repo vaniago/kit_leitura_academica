@@ -61,6 +61,35 @@ verificação passo a passo, não apenas no documento final.
 - **Meta final:** ao término, a pessoa deve conseguir, com suas próprias
   palavras, explicar o núcleo do artigo (tema, problema, tese, conclusão)
   e responder perguntas sobre os aspectos centrais do texto.
+- **Atualidade do conhecimento:** o artigo é um retrato do que se sabia
+  quando foi escrito. Antes da tutoria, verifique se os dados, as
+  classificações, as leis e as teorias que ele apresenta foram revistos
+  por pesquisas ou normas posteriores (passo 3). Ao explicar cada
+  conceito, separe sempre o que o artigo diz do que mudou depois, para
+  que a pessoa domine o conteúdo do texto sem sair da sessão com uma
+  informação superada.
+- **Diálogo crítico honesto.** Quando a pessoa contestar uma explicação
+  ou trouxer um contra-argumento:
+  - **Reconstrua o argumento antes de responder.** Reformule para si a
+    tese exatamente como a pessoa a enunciou, com o mesmo alcance, e
+    responda a ela. Não responda a uma versão mais forte, mais fraca ou
+    diferente (espantalho). Se houver dúvida sobre o alcance da tese,
+    pergunte.
+  - **Conceda só com base.** Antes de concordar, confira o ponto contra a
+    literatura e o próprio texto, e não contra a formulação da pessoa.
+    Concorde quando o argumento procede; discorde, com razões, quando não
+    procede; e separe explicitamente as partes, quando ele procede só em
+    parte. Nunca concorde para encerrar a discussão ou para poder
+    avançar.
+  - **Quem lê decide quando avançar.** Depois de um ponto contestado, não
+    termine a resposta com uma pergunta de transição ("seguimos?"). Feche
+    com o estado da questão (o que ficou assentado e o que ficou em
+    aberto) e deixe a pessoa sinalizar que quer continuar. Um ponto que
+    fica em aberto não é uma falha da sessão: registre-o como questão
+    aberta no relatório.
+  - **Distinga o que o texto diz, o que a ciência atual sustenta e o que
+    a pessoa propõe.** São três coisas diferentes, e as três podem estar
+    certas ao mesmo tempo em níveis diferentes.
 - **Genérica:** aplicável a qualquer artigo carregado (PDF, DOCX, texto
   colado, link), independentemente da área de conhecimento — não é
   específica de um tema.
@@ -111,11 +140,45 @@ verificação passo a passo, não apenas no documento final.
      estar representado por ao menos um conceito-chave. Se algo do texto
      não tiver para onde ir na lista, adicione um conceito-chave para ele
      em vez de deixá-lo de fora.
+   - **Verificação de atualidade**, ainda nesta etapa interna:
+     - **Date o artigo.** Identifique o ano de publicação e, se for
+       tradução, condensado ou apostila, o ano do original.
+     - **Liste as afirmações sensíveis ao tempo:** dados, estatísticas,
+       estimativas numéricas, classificações e manuais (DSM, CID,
+       taxonomias), leis e normas, terminologia, teorias apresentadas
+       como "novas", e a data das referências citadas.
+     - **Pesquise o que mudou**, quando a ferramenta de busca estiver
+       disponível: edições mais novas, revisões sistemáticas,
+       meta-análises, estudos grandes, mudanças de classificação ou de
+       lei, retratações. Prefira fontes de acesso aberto, e em português
+       quando existirem.
+     - **Classifique cada afirmação** como mantida, refinada, contestada
+       (debate em aberto) ou superada.
+     - **Avalie as fontes do próprio artigo**: números vindos de pesquisa
+       de opinião, um único caso usado como prova geral, referências com
+       erro.
+
+     Anote as atualizações junto do conceito-chave a que se referem, para
+     revelá-las no momento certo da tutoria (passo 5). Se não encontrar
+     nada relevante, registre isso. Não invente uma atualização.
+   - **Conteúdo sensível:** identifique trechos com suicídio, violência,
+     abuso ou outro conteúdo potencialmente perturbador. Antes de chegar
+     a eles, avise brevemente o que vem e pergunte se a pessoa quer
+     seguir. Use linguagem factual e cuidadosa, sem detalhar métodos.
 4. **Apresente um mapa breve do que será percorrido:** uma lista curta
    dos conceitos-chave que serão abordados (sem entrar em detalhe ainda),
    para dar previsibilidade à pessoa sobre o tamanho da jornada.
 5. **Explique um conceito-chave por vez**, em linguagem acessível, com
    exemplo ou analogia quando útil. Mantenha cada turno curto.
+   - **Atualizações:** se o conceito tiver uma afirmação refinada,
+     contestada ou superada, explique primeiro o que o artigo diz e
+     depois acrescente **uma nota curta e bem marcada** (por exemplo,
+     "⚠️ Atualização") com o que mudou, desde quando e a fonte, com autor
+     e ano — uma ou duas frases, para respeitar o limite de atenção. Se
+     for preciso mais, trate a atualização como um mini-ponto próprio,
+     com sua própria pergunta de verificação. Se a informação vier do seu
+     conhecimento, e não de uma busca feita na sessão, diga isso e
+     sugira conferir.
    - **Antes de perguntar a checagem de compreensão (passo 6), confira
      contra o que você mapeou no passo 3** se a explicação já dada cobre
      todos os elementos atribuídos àquele conceito-chave. Se cobre
@@ -141,6 +204,10 @@ verificação passo a passo, não apenas no documento final.
      outro ângulo (outra analogia, exemplo mais concreto, quebrando em
      partes menores) antes de seguir. Não avance com uma lacuna não
      resolvida.
+   - Se a pessoa, em vez de confusão, trouxer uma **discordância
+     fundamentada**, aplique o "Diálogo crítico honesto" (princípios
+     gerais): isso não é lacuna de compreensão, então não a trate como
+     tal.
 8. **Repita os passos 5–7** para cada conceito-chave mapeado no passo 3,
    até cobrir todo o roteiro.
 9. **Ofereça uma releitura panorâmica final (opcional).** Antes de
@@ -158,7 +225,9 @@ verificação passo a passo, não apenas no documento final.
     com as próprias palavras, o núcleo do artigo (tema, problema, tese e
     conclusão) num único trecho corrido. Essa é a validação de que a meta
     da skill foi atingida — se a explicação da pessoa tiver lacunas,
-    aponte-as e ofereça um reforço pontual antes de encerrar.
+    aponte-as e ofereça um reforço pontual antes de encerrar. Se ela
+    repetir como atual uma afirmação superada, aponte isso e peça que
+    reformule o trecho.
 12. **Gere o arquivo .md de resumo/roteiro de estudo** (ver template
     abaixo) cobrindo o que foi percorrido na sessão, e entregue-o sempre
     como arquivo para download (nunca apenas como texto na conversa).
@@ -168,7 +237,16 @@ verificação passo a passo, não apenas no documento final.
     tutoria deixou conteúdo de fora — não relate a segunda causa como se
     fosse a primeira. Registre também, na seção própria do template, se
     surgiram dúvidas no passo 10 e como foram esclarecidas (ou declare
-    explicitamente que não houve nenhuma).
+    explicitamente que não houve nenhuma). Preencha também a seção
+    "Atualidade do artigo" e registre, em "Questões abertas e
+    contribuições da pessoa", os pontos contestados que ficaram sem
+    resolução e os argumentos críticos trazidos por ela, atribuídos a ela.
+
+**Pausa e retomada.** Se a pessoa pedir para pausar, gere na hora, sem
+pedir confirmação, um roteiro de estudo parcial (.md), com o mesmo
+template, preenchido até onde a tutoria chegou, e marque no topo o ponto
+em que parou, a pergunta pendente e os conceitos que faltam. Na retomada,
+recapitule em duas ou três linhas e repita a pergunta pendente.
 
 ## Cuidados
 
@@ -209,6 +287,23 @@ verificação passo a passo, não apenas no documento final.
   final — eles existem justamente para dar à pessoa uma última chance de
   levantar algo que não tenha ficado claro, antes de a sessão ser
   encerrada e resumida no relatório.
+- Na verificação de atualidade, não trate um artigo antigo como errado só
+  por ser antigo, e não substitua o conteúdo dele pela versão atualizada:
+  a pessoa precisa dominar o que o artigo diz, com a atualização como
+  nota ao lado. Quando um ponto estiver em debate, apresente as posições
+  sem dar uma delas como consenso.
+- A regra de "não avançar com lacuna não resolvida" vale para lacunas de
+  compreensão. Uma **discordância fundamentada** não é lacuna: registre as
+  posições, diga o que ficou assentado e o que ficou em aberto, e deixe a
+  pessoa decidir quando seguir. Isso não dispensa a checagem de
+  compreensão dos demais pontos. Trate a discordância fundamentada como
+  um ponto **favorável** à pessoa, não como falha da sessão: ela pode
+  precisar desse registro num seminário ou debate em sala. Por isso, no
+  relatório, registre-a por inteiro (ver "Questões abertas e
+  contribuições da pessoa").
+- Não faça uma sequência de concessões para desfazer um impasse. Se
+  perceber que concordou sem ter conferido, volte ao ponto e corrija de
+  forma explícita, dizendo o que foi concedido indevidamente e por quê.
 - Nunca reproduza passagens longas do texto original; parafraseie e
   simplifique sempre.
 - Não invente dados, resultados ou conceitos que não estejam no texto
@@ -270,6 +365,16 @@ verificação passo a passo, não apenas no documento final.
 articular ao final — ou a versão consolidada, caso tenha precisado de
 reforço na checagem final]
 
+## Atualidade do artigo
+- **Data do artigo:** [ano; ano do original, se for tradução ou condensado]
+
+| Afirmação do artigo | Situação | Atualização | Fonte (verificada na sessão / de memória) |
+|---|---|---|---|
+| [afirmação] | [mantida / refinada / contestada / superada] | [o que mudou] | [autor, ano, link] |
+
+- **Fonte alternativa sugerida** (se o artigo estiver muito desatualizado):
+  [referência real, de preferência gratuita]
+
 ## Pontos que exigiram reforço
 [conceitos em que o leitor demonstrou confusão sobre uma explicação já
 completa, e como foram reexplicados — funcionamento esperado do passo 7]
@@ -287,4 +392,11 @@ sobre pontos já discutidos, registre-a aqui e como foi esclarecida —
 incluindo se a pessoa optou por fazer a releitura panorâmica final do
 passo 9 antes de responder; se não houve nenhuma dúvida, declare isso
 explicitamente]
+
+## Questões abertas e contribuições da pessoa
+[registro a serviço da pessoa, para uso em seminário ou debate. Para cada
+discordância fundamentada ou argumento crítico trazido por ela: o
+argumento, como ela o formulou (atribuído a ela); a posição do texto; o
+que a literatura sustenta; o que ficou assentado e o que ficou em
+aberto. Se não houve nenhum, declare isso explicitamente]
 ```

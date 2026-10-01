@@ -21,11 +21,17 @@ pedagógica própria:
    alongue a sessão.
 3. Apresenta um mapa breve da jornada de estudo.
 4. Explica um conceito por vez, em linguagem acessível, com analogias —
-   no ritmo do leitor, nunca com pressa de avançar.
+   no ritmo do leitor, nunca com pressa de avançar. Verifica antes se o
+   artigo está desatualizado (dados, classificações, leis, teorias) e
+   sinaliza as atualizações em notas curtas, separadas do que o texto
+   diz; avisa antes de trechos sensíveis (ex.: suicídio).
 5. Verifica ativamente a compreensão da pessoa antes de avançar — nunca
    pula essa checagem, e só a faz depois de ter explicado o conceito por
    inteiro.
-6. Reforça pontos com lacuna antes de seguir adiante.
+6. Reforça pontos com lacuna antes de seguir adiante. Discordâncias
+   fundamentadas são tratadas como debate (a skill não concede só para
+   avançar), não como lacuna, e ficam registradas no relatório como
+   contribuição da pessoa, útil para seminários e debates.
 7. Antes de encerrar, oferece uma releitura panorâmica final (opcional)
    e pergunta diretamente se restam dúvidas, esclarecendo-as antes de
    seguir.
@@ -34,7 +40,9 @@ pedagógica própria:
 9. Gera um arquivo `.md` com o roteiro de estudo da sessão, registrando
    à parte qualquer lacuna que a própria pessoa teve que apontar (em vez
    de confundir isso com um simples reforço por dificuldade de
-   compreensão) e quaisquer dúvidas levantadas no fechamento.
+   compreensão), as dúvidas levantadas no fechamento, a tabela de
+   atualidade do artigo e as questões abertas. Se a pessoa pedir para
+   pausar, gera na hora um roteiro parcial para retomar depois.
 
 Pensada especialmente para quem tem dificuldade de manter atenção em
 textos longos, mas é genérica: aplica-se a qualquer artigo, de qualquer

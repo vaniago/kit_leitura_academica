@@ -16,11 +16,19 @@ o caminho que o texto percorre, centrada no leitor e no seu contexto:
 2. Conduz uma entrevista breve sobre o motivo da leitura e o nível de
    expertise no tema.
 3. Levanta o que o leitor já sabe sobre o assunto, antes de ler.
-4. Acompanha a leitura seção por seção, explicando pré-requisitos sob
-   demanda e checando a compreensão ao longo do caminho.
-5. Ao final, compara o que o leitor sabia antes com o que consegue
+4. Verifica se o texto está desatualizado (dados, classificações, leis,
+   teorias) e, durante a leitura, sinaliza as atualizações em notas
+   curtas, separadas do que o texto diz.
+5. Acompanha a leitura seção por seção, em blocos curtos, explicando
+   pré-requisitos sob demanda, checando a compreensão e avisando antes de trechos sensíveis. Se o leitor contestar
+   algo, dialoga com honestidade (sem conceder só para avançar) e registra a
+   discordância fundamentada no relatório, como contribuição dele para
+   seminários e debates. Permite
+   pausar e retomar com um relatório parcial.
+6. Ao final, compara o que o leitor sabia antes com o que consegue
    articular depois, e mostra o progresso de forma concreta.
-6. Gera um arquivo `.md` com o relatório da sessão e recomendações de
+7. Gera um arquivo `.md` com o relatório da sessão (incluindo a tabela de
+   atualidade do texto e as questões abertas) e recomendações de
    leitura complementar (de fundamentos e por interesse espontâneo).
 
 Pensada especialmente para estudantes de ensino técnico ou médio, estudantes de
