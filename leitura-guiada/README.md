@@ -14,8 +14,9 @@ o caminho que o texto percorre, centrada no leitor e no seu contexto:
 1. Faz uma síntese inicial breve (tema e finalidade, sem revelar a tese),
    para aliviar a ansiedade de começar sem saber do que se trata.
 2. Conduz uma entrevista breve sobre o motivo da leitura, o nível de
-   expertise no tema e o escopo (texto inteiro ou um recorte).
-3. Levanta o que o leitor já sabe sobre o assunto, antes de ler.
+   expertise no tema, se o leitor já leu o texto e o escopo (texto inteiro
+   ou um recorte).
+3. Levanta o que o leitor já sabe sobre o assunto, antes da explicação.
 4. Verifica se o texto está desatualizado (dados, classificações, leis,
    teorias) e, durante a leitura, sinaliza as atualizações em notas
    curtas, separadas do que o texto diz.
