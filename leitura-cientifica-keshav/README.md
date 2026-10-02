@@ -45,6 +45,8 @@ Claude explica o que observar em cada uma e confere o relato contra o
 texto real, mas nunca lê o artigo e entrega um resumo pronto no lugar de
 quem está estudando.
 
+**Pausa e retomada.** Se você precisar parar a qualquer momento (inclusive por urgência), basta avisar: a skill gera na hora um arquivo `_PARCIAL.md` com o ponto em que parou e como retomar. Para continuar depois, abra uma nova conversa, peça a mesma skill e anexe o arquivo parcial e o artigo.
+
 ## Instalação
 
 Esta skill funciona sozinha — não depende de nenhuma outra skill do kit

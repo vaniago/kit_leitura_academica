@@ -42,7 +42,8 @@ pedagógica própria:
    de confundir isso com um simples reforço por dificuldade de
    compreensão), as dúvidas levantadas no fechamento, a tabela de
    atualidade do artigo e as questões abertas. Se a pessoa pedir para
-   pausar, gera na hora um roteiro parcial para retomar depois.
+   pausar (inclusive por urgência), gera na hora um roteiro parcial para
+   retomar depois, em outra conversa, anexando-o junto com o texto.
 
 Pensada especialmente para quem tem dificuldade de manter atenção em
 textos longos, mas é genérica: aplica-se a qualquer artigo, de qualquer

@@ -24,7 +24,8 @@ o caminho que o texto percorre, centrada no leitor e no seu contexto:
    algo, dialoga com honestidade (sem conceder só para avançar) e registra a
    discordância fundamentada no relatório, como contribuição dele para
    seminários e debates. Permite
-   pausar e retomar com um relatório parcial.
+   pausar a qualquer momento (inclusive por urgência) e retomar depois, em
+   outra conversa, anexando o relatório parcial e o texto.
 6. Ao final, compara o que o leitor sabia antes com o que consegue
    articular depois, e mostra o progresso de forma concreta.
 7. Gera um arquivo `.md` com o relatório da sessão (incluindo a tabela de

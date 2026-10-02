@@ -209,6 +209,60 @@ interna, pontos de originalidade, eixos de posicionamento pessoal).
 Essa seção nunca substitui as etapas 3, 4 e 5 do template — ela é
 complementar, um registro do apoio oferecido à pessoa.
 
+## Pausa e retomada
+
+O leitor pode precisar parar a qualquer momento — por uma urgência, por
+cansaço ou por qualquer outro motivo — sem ter chegado ao fim da sessão.
+A pausa nunca é falha, e nenhuma pergunta em andamento impede de pausar.
+
+**Como reconhecer o pedido.** Pedido explícito ("quero pausar", "continuo
+depois") ou sinal de urgência sem a palavra "pausa" ("preciso sair agora",
+"surgiu um imprevisto", "tenho que ir"). Na dúvida, trate como pausa.
+
+**O que fazer na hora.**
+- Gere imediatamente o fichamento parcial (.md), sem pedir confirmação, sem
+  fazer mais perguntas e sem insistir em terminar o ponto em andamento.
+  Responda com uma ou duas frases acolhedoras e entregue o arquivo.
+- Use o mesmo template do relatório final, preenchido só com o que de fato
+  aconteceu. Inclua o formato escolhido, se há mapa conceitual, o modo de
+  condução e a unidade delimitada, o que já foi produzido nas etapas 1 e 2 e
+  as respostas do usuário nas etapas 3, 4 e 5 já conduzidas, preservando a
+  voz dele. O que não foi alcançado fica marcado como "não iniciado" — nunca
+  preenchido por antecipação nem inventado.
+- Termine o nome do arquivo em `_PARCIAL.md` e coloque no topo o bloco
+  "Sessão pausada", com: (1) a skill usada; (2) o ponto exato em que parou;
+  (3) a pergunta pendente, copiada literalmente, se houver; (4) o que falta
+  percorrer; (5) o contexto combinado na abertura (motivo, nível, escopo e
+  escolhas de método); (6) como retomar (abaixo).
+
+**Como retomar (diga à pessoa ao entregar o arquivo).** A retomada pode
+acontecer horas ou dias depois, em outra conversa, onde o Claude não terá
+memória desta sessão. Para retomar: abrir uma nova conversa, pedir esta
+mesma skill e anexar o relatório parcial e o texto-fonte.
+
+**Ao retomar.** Se a pessoa anexar um relatório parcial (ou disser que está
+retomando uma sessão):
+- Se a pessoa disser que quer retomar mas **não anexou** o relatório
+  parcial, peça-o antes de qualquer outra coisa ("para continuar de onde
+  paramos, anexe aqui o arquivo `_PARCIAL.md` da sessão anterior"). Não
+  prossiga de memória nem tente adivinhar onde parou. Se ela não tiver
+  mais o arquivo, explique que não é possível retomar com fidelidade e
+  ofereça começar do início, ou de um ponto que ela mesma indique.
+- Leia o bloco "Sessão pausada" e **não refaça** a entrevista, a orientação
+  inicial nem a escolha de método; confirme em uma linha o que entendeu do
+  contexto e do escopo.
+- Se o texto-fonte não estiver anexado de novo, peça-o antes de continuar;
+  não retome de memória nem reconstrua o texto a partir do que o parcial
+  registra. As etapas 1 e 2 podem ser refeitas internamente a partir do
+  texto.
+- Recapitule em duas ou três linhas em que etapa da análise parou. Em
+  seguida, repita a pergunta pendente e siga.
+- Trate o relatório parcial como registro do que a pessoa disse e fez, não
+  como fonte sobre o conteúdo do texto, que vem só do texto-fonte.
+- Ao final, entregue um único relatório final cumulativo (sessão anterior
+  + atual), preservando literalmente o que a pessoa registrou no parcial.
+  Se ela precisar pausar de novo, repita o procedimento.
+
 ## Tipos de fichamento (formatos de saída)
 
 Ofereça estas opções ao usuário quando o formato não estiver claro:

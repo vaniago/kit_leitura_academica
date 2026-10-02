@@ -28,6 +28,8 @@ de importação do CmapTools.
 
 O CmapTools está disponível [aqui](https://cmap.ihmc.us/)
 
+**Pausa e retomada.** Se você precisar parar a qualquer momento (inclusive por urgência), basta avisar: a skill gera na hora um arquivo `_PARCIAL.md` com o ponto em que parou e como retomar. Para continuar depois, abra uma nova conversa, peça a mesma skill e anexe o arquivo parcial e o texto.
+
 ## Instalação
 
 > **Não usa Git/GitHub?** Dá para baixar só esta pasta pelo navegador, sem instalar nada além de um programa de descompactar: acesse

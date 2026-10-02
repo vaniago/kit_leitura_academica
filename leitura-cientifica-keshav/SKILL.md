@@ -185,6 +185,68 @@ Docs, mesmo que o ambiente sugira. Siga o
 formato do template abaixo. É um registro fiel do que a pessoa
 respondeu em cada passada — não um resumo do artigo escrito pelo Claude.
 
+## Pausa e retomada
+
+O leitor pode precisar parar a qualquer momento — por uma urgência, por
+cansaço ou por qualquer outro motivo — sem ter chegado ao fim da sessão.
+A pausa nunca é falha, e nenhuma pergunta em andamento impede de pausar.
+
+**Como reconhecer o pedido.** Pedido explícito ("quero pausar", "continuo
+depois") ou sinal de urgência sem a palavra "pausa" ("preciso sair agora",
+"surgiu um imprevisto", "tenho que ir"). Na dúvida, trate como pausa.
+
+**O que fazer na hora.**
+- Gere imediatamente o relatório parcial (.md), sem pedir confirmação, sem
+  fazer mais perguntas e sem insistir em terminar o ponto em andamento.
+  Responda com uma ou duas frases acolhedoras e entregue o arquivo.
+- Use o mesmo template do relatório final, preenchido só com o que de fato
+  aconteceu. Inclua o nível de experiência declarado e o relato de cada
+  passada concluída (ou a parte já feita da passada em andamento). O que não
+  foi alcançado fica marcado como "não iniciado" — nunca preenchido por
+  antecipação nem inventado.
+- Termine o nome do arquivo em `_PARCIAL.md` e coloque no topo o bloco
+  "Sessão pausada", com: (1) a skill usada; (2) o ponto exato em que parou;
+  (3) a pergunta pendente, copiada literalmente, se houver; (4) o que falta
+  percorrer; (5) o contexto combinado na abertura (motivo, nível, escopo e
+  escolhas de método); (6) como retomar (abaixo).
+
+**Como retomar (diga à pessoa ao entregar o arquivo).** A retomada pode
+acontecer horas ou dias depois, em outra conversa, onde o Claude não terá
+memória desta sessão. Para retomar: abrir uma nova conversa, pedir esta
+mesma skill e anexar o relatório parcial e o artigo.
+
+**Ao retomar.** Se a pessoa anexar um relatório parcial (ou disser que está
+retomando uma sessão):
+- Se a pessoa disser que quer retomar mas **não anexou** o relatório
+  parcial, peça-o antes de qualquer outra coisa ("para continuar de onde
+  paramos, anexe aqui o arquivo `_PARCIAL.md` da sessão anterior"). Não
+  prossiga de memória nem tente adivinhar onde parou. Se ela não tiver
+  mais o arquivo, explique que não é possível retomar com fidelidade e
+  ofereça começar do início, ou de um ponto que ela mesma indique.
+- Leia o bloco "Sessão pausada" e **não refaça** a entrevista, a orientação
+  inicial nem a escolha de método; confirme em uma linha o que entendeu do
+  contexto e do escopo.
+- Se o texto-fonte não estiver anexado de novo, peça-o antes de continuar;
+  não retome de memória nem reconstrua o texto a partir do que o parcial
+  registra. Ao retomar, a conferência do relato da pessoa continua sendo
+  feita contra o texto real.
+- Recapitule em duas ou três linhas em que passada a leitura parou. Em
+  seguida, repita a pergunta pendente e siga.
+- Trate o relatório parcial como registro do que a pessoa disse e fez, não
+  como fonte sobre o conteúdo do artigo, que vem só do texto-fonte.
+- Ao final, entregue um único relatório final cumulativo (sessão anterior
+  + atual), preservando literalmente o que a pessoa registrou no parcial.
+  Se ela precisar pausar de novo, repita o procedimento.
+
+**Aviso sobre limites de uso (uma única vez, ao fim da entrevista de
+contexto).** Diga em uma ou duas frases que, em planos gratuitos de IA, o
+chat pode pausar por limite de uso no meio de uma sessão longa; que se isso
+acontecer a pessoa pode voltar depois e retomar com o relatório parcial
+(anexando-o junto com o artigo); e que, se perceber que está perto do
+limite, pode pedir o relatório parcial antes. Não cite números nem nomes de
+planos (variam e mudam) e não repita o aviso depois. Se a pessoa disser que
+está perto do limite, gere o relatório parcial na hora.
+
 ## Cuidados
 
 - Nunca resuma ou analise o artigo no lugar da pessoa, mesmo se pedido
@@ -197,19 +259,6 @@ respondeu em cada passada — não um resumo do artigo escrito pelo Claude.
 - Se a sessão for longa (a Passada 3 pode levar horas para quem tem mais
   experiência), deixe explícito que dá para dividir em mais de uma sessão
   — a decisão de continuar ou pausar é da pessoa.
-- **Pausa e retomada.** Se a pessoa pedir para pausar, gere na hora, sem
-  pedir confirmação, um relatório parcial (.md) com o mesmo template,
-  preenchido até a passada em que parou, marcando no topo onde parou e a
-  pergunta pendente. Na retomada, recapitule em duas ou três linhas e
-  repita a pergunta pendente.
-- **Aviso sobre limites de uso (uma única vez, ao fim da entrevista de
-  contexto).** Diga em uma ou duas frases que, em planos gratuitos de IA,
-  o chat pode pausar por limite de uso no meio da sessão; que se isso
-  acontecer a pessoa pode voltar depois e retomar a partir do relatório
-  parcial; e que, se perceber que está perto do limite, pode pedir esse
-  relatório antes. Não cite números nem nomes de planos e não repita o
-  aviso depois. Se a pessoa disser que está perto do limite, gere o
-  relatório parcial na hora.
 - Mantenha o tom acolhedor mesmo quando o relato da pessoa estiver
   incompleto — o objetivo é apontar o que falta conferir no texto, não
   avaliar desempenho.
