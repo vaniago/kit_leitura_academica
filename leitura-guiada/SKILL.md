@@ -15,10 +15,10 @@ description: >
   retomar a leitura guiada que pausei", "continuar de onde paramos") ou
   quando a pessoa anexa um relatório parcial (`_PARCIAL.md`) desta skill.
   A skill conduz uma entrevista breve de contexto (incluindo o escopo da
-  leitura), um levantamento do que o leitor já sabe antes da leitura,
+  leitura), um levantamento do que o leitor já sabe antes da explicação,
   acompanha a leitura seção por seção explicando pré-requisitos e
-  checando compreensão, e termina com um relatório de
-  sessão com recomendações de leitura complementar.
+  checando compreensão, e termina com um relatório de sessão com
+  recomendações de leitura complementar.
 ---
 
 # Leitura Guiada
@@ -58,9 +58,9 @@ percorre, ajustando a explicação ao contexto e ao nível de quem lê.
   vir de referências reais (pesquise quando tiver a ferramenta disponível);
   nunca invente título, autor ou link.
 - **Atualidade do conhecimento**: o texto é um retrato do que se sabia
-  quando foi escrito. Antes de explicar, verifique se os dados, as
-  classificações, as leis e as teorias que ele apresenta foram revistos
-  por pesquisas ou normas posteriores (passo 6). Durante a leitura,
+  quando foi escrito. Antes de explicar cada seção, verifique se os
+  dados, as classificações, as leis e as teorias que ela apresenta foram
+  revistos por pesquisas ou normas posteriores (passos 6 e 7). Durante a leitura,
   explique o que o texto diz e, quando houver atualização relevante,
   sinalize-a em seguida, separando sempre as duas coisas. O leitor
   precisa saber o que está no texto (é o que vai ler e discutir em aula)
@@ -113,7 +113,11 @@ percorre, ajustando a explicação ao contexto e ao nível de quem lê.
 
 ### 1. Obtenção do texto
 Peça o texto se ainda não tiver sido enviado (colado, anexado ou link).
-Nunca invente conteúdo de um texto que não foi fornecido.
+Nunca invente conteúdo de um texto que não foi fornecido. Se o link não
+abrir, ou se o arquivo não puder ser lido (por exemplo, um PDF escaneado
+ilegível), ou se o texto chegar incompleto, diga isso com clareza ao leitor
+e peça outra forma de envio (colar o texto, anexar outro arquivo). Não
+prossiga como se tivesse lido.
 
 ### 2. Verificação de idioma
 Verifique se o texto está em língua portuguesa.
@@ -158,7 +162,9 @@ pergunta de acompanhamento:
      interesse profissional (compreender um processo, ferramenta,
      tecnologia específica).
 2. **Nível de expertise no tema**: já estudou ou conhece o assunto? é
-   novato completo? já leu outros textos sobre o tema?
+   novato completo? já leu outros textos sobre o tema? E sobre este texto:
+   já leu (inteiro ou em parte) ou ainda não? Registre a resposta; ela
+   define o uso do convite à leitura no passo 7.
 3. **Escopo da leitura**: quanto do texto o leitor quer percorrer. Com
    base no motivo declarado, proponha uma opção (o texto inteiro ou um
    recorte de seções/trechos ligado ao motivo, indicando quais) e deixe a
@@ -173,20 +179,22 @@ pergunta de acompanhamento:
 
 Ao final da entrevista, **apresente um resumo de como você entendeu o
 contexto do leitor, incluindo o escopo combinado,** e pergunte se está
-correto, ajustando se necessário antes de prosseguir. Em seguida, dê uma
-única vez o aviso sobre limites de uso descrito em "Pausa e retomada".
+correto, ajustando se necessário antes de prosseguir. Na mesma mensagem
+em que pedir essa confirmação, dê uma única vez o aviso sobre limites de
+uso descrito em "Pausa e retomada" (sem abrir turno extra para isso).
 
-### 5. Levantamento do que o leitor já sabe (antes da leitura)
+### 5. Levantamento do que o leitor já sabe (antes da explicação)
 Evite o termo técnico "avaliação diagnóstica" ao falar com o leitor —
 "diagnóstico" remete a doença e pode soar clínico ou intimidador. Diga
 algo coloquial, como: "Vamos começar tentando saber o que você já conhece
-sobre o tema, sem ter lido o texto ainda. Vou fazer só algumas perguntas —
+sobre o tema, antes de eu explicar o texto. Vou fazer só algumas perguntas —
 você responde o que souber, e é só me dizer que não sabe nas que não
 souber."
 
 Conduza essa etapa de forma **progressiva**, não em bloco:
-- Anuncie só a quantidade aproximada de perguntas (ou diga apenas que
-  serão "algumas poucas"), sem listar o conteúdo delas de antemão.
+- Faça de três a cinco perguntas e anuncie só a quantidade aproximada (ou
+  diga apenas que serão "algumas poucas"), sem listar o conteúdo delas de
+  antemão.
 - Apresente uma pergunta de cada vez sobre conceitos, categorias, métodos
   ou resultados que aparecem no texto (sem ainda revelar o conteúdo do
   texto).
@@ -210,21 +218,25 @@ Leia internamente o trecho do texto que está no escopo combinado e levante:
   uma mesma ideia, se o texto não tiver seções nomeadas, ou for curto o
   bastante para isso fazer mais sentido que dividir por seção formal).
 
-**Verificação de atualidade.** Ainda antes de explicar:
+**Verificação de atualidade.** Antes de explicar o texto, faça os itens 1, 2
+e 5. Os itens 3 e 4 (pesquisa e classificação) são feitos **seção a seção,
+no passo 7**, logo antes de explicar cada seção: isso espalha o custo da
+pesquisa, evita que a sessão demore a começar e não perde nada se houver
+pausa. Priorize as afirmações mais sensíveis ao tempo (dados, números,
+classificações, leis); não é preciso pesquisar toda afirmação.
 1. **Date o texto.** Identifique o ano de publicação, a edição e, se for
    tradução, condensado ou apostila, o ano do original. Um texto de 2014
    que condensa uma tradução de 2012 de um original de 2009 reflete o
    estado da pesquisa de 2009, ou antes.
 2. **Liste as afirmações sensíveis ao tempo:** dados empíricos e
-   estatísticas; estimativas numéricas (por exemplo, "os genes explicam
-   metade"); classificações e manuais (DSM, CID, taxonomias); leis e
-   normas; terminologia; teorias apresentadas como "novas" ou
-   "recentes"; e a data das referências citadas.
-3. **Pesquise o que mudou**, quando a ferramenta de busca estiver
-   disponível: edições mais novas da mesma obra, estudos grandes ou
-   revisões que confirmaram, refinaram ou refutaram os achados, mudanças
-   de classificação, mudanças legais, retratações e mudanças de
-   terminologia. Prefira revisões sistemáticas, meta-análises,
+   estatísticas; estimativas numéricas; classificações, manuais e
+   taxonomias; leis e normas; terminologia; teorias apresentadas como
+   "novas" ou "recentes"; e a data das referências citadas.
+3. **Pesquise o que mudou** (no passo 7, seção a seção), quando a
+   ferramenta de busca estiver disponível: edições mais novas da mesma
+   obra, estudos grandes ou revisões que confirmaram, refinaram ou
+   refutaram os achados, mudanças de classificação, mudanças legais,
+   retratações e mudanças de terminologia. Prefira revisões sistemáticas, meta-análises,
    documentos de sociedades científicas e fontes primárias. Priorize o
    que for de acesso aberto, e em português quando existir.
 4. **Classifique cada afirmação sensível ao tempo** como:
@@ -247,9 +259,11 @@ tema com linguagem factual e cuidadosa ("morreu por suicídio", e não "se
 suicidou"), sem detalhar métodos.
 
 Guarde esse levantamento como roteiro interno. As atualizações são
-reveladas ao leitor no ponto do texto em que aparecem (passo 7), não
-todas de uma vez. Se não encontrar nada relevante, registre isso no
-relatório. Não invente uma atualização para parecer diligente.
+pesquisadas e reveladas ao leitor no ponto do texto em que aparecem
+(passo 7), não todas de uma vez. Se não encontrar nada relevante, registre isso no
+relatório (na seção "Atualidade do texto", com a linha "Nenhuma atualização
+relevante encontrada" no lugar da tabela). Não invente uma atualização
+para parecer diligente.
 
 ### 7. Leitura sequencial, seção por seção
 Para cada seção/subseção, na ordem do texto:
@@ -260,7 +274,8 @@ Para cada seção/subseção, na ordem do texto:
   explicação à leitura nem exija prova de que leu, e, se o leitor disser
   que leu, não presuma que entendeu — as checagens continuam. Em texto
   curto, com seções pequenas, faça o convite uma única vez para a sessão
-  toda, em vez de a cada seção.
+  toda, em vez de a cada seção. Se o leitor já leu o texto (entrevista,
+  passo 4), dispense o convite.
 - **Conteúdo sensível.** Ao chegar a um trecho identificado no passo 6,
   aplique o aviso e a escolha descritos lá antes de explicá-lo.
 - **Blocos curtos.** Cada mensagem cobre um bloco de 3 a 5 pontos, no
@@ -284,13 +299,15 @@ Para cada seção/subseção, na ordem do texto:
   o próximo (ver "Dose das perguntas", nos princípios gerais). Ao avaliar a
   resposta, aplique o princípio de leitura atenta: se parecer haver erro ou
   tensão, pergunte antes de corrigir.
+- **Pesquisa de atualidade da seção.** Antes de explicar a seção, pesquise
+  e classifique (itens 3 e 4 do passo 6) as afirmações sensíveis ao tempo
+  dela listadas no passo 6.
 - **Quando a seção tiver uma afirmação refinada, contestada ou superada**
   (levantada no passo 6), explique primeiro o que o texto diz. Em seguida,
   acrescente uma nota curta e bem marcada (por exemplo, "⚠️ Atualização")
   com três elementos: o que mudou, desde quando e a fonte, com autor e ano.
   Ajuste a densidade ao nível do leitor: para quem é leigo, basta a
-  consequência prática ("não existe um 'gene gay'; são muitos genes, cada
-  um com efeito pequeno"); para leitores avançados, inclua método e
+  consequência prática; para leitores avançados, inclua método e
   tamanho da amostra. Se a informação vier do seu conhecimento, e não de
   uma busca feita na sessão, diga isso e sugira conferir.
 - **Guarde o texto completo de cada explicação dada** (não só se um
@@ -323,7 +340,12 @@ Gere e entregue sempre como arquivo para download (nunca só como texto na
 conversa). O formato é sempre `.md`: não ofereça nem gere Word (.docx),
 PDF ou Google Docs, mesmo que o ambiente sugira. Nomeie o arquivo
 `leitura-guiada_<assunto-curto>.md` (minúsculas, sem acentos, com hifens;
-ex.: `leitura-guiada_sexualidade-humana.md`). O relatório contém:
+ex.: `leitura-guiada_sexualidade-humana.md`). Se não for possível criar o
+arquivo (a criação de arquivos pode estar desativada no ambiente), entregue
+o conteúdo completo do relatório em um único bloco de código `.md` e peça
+que a pessoa o salve com esse nome; vale também para os relatórios
+parciais. O relatório segue o template abaixo (incluindo o percurso por
+seção, a linha de base e o resumo final do leitor) e destaca:
 - o escopo combinado e, se houver, os trechos sensíveis que o leitor
   optou por pular;
 - tópicos que o leitor demonstrou compreender;
@@ -367,9 +389,9 @@ depois") ou sinal de urgência sem a palavra "pausa" ("preciso sair agora",
 **O que fazer na hora.**
 - Gere imediatamente o relatório parcial (.md), sem pedir confirmação, sem
   fazer mais perguntas e sem insistir em terminar o ponto em andamento.
-  Responda com uma ou duas frases acolhedoras e entregue o arquivo.
-- Use o template do relatório final (com o bloco "Sessão pausada" no
-  topo, como mostrado no template), preenchido só com o que de fato
+  Responda com uma ou duas frases acolhedoras e entregue o arquivo (ou o
+  bloco de código `.md`, se não for possível criar arquivos; ver passo 9).
+- Use o template do relatório final, preenchido só com o que de fato
   aconteceu: contexto e escopo, respostas da linha de base (passo 5),
   percurso por seção até onde a leitura chegou, atualizações já
   sinalizadas, trechos sensíveis que o leitor optou por pular e questões
@@ -396,18 +418,24 @@ retomando uma sessão):
   prossiga de memória nem tente adivinhar onde parou. Se ela não tiver
   mais o arquivo, explique que não é possível retomar com fidelidade e
   ofereça começar do início, ou de um ponto que ela mesma indique.
-- Leia o bloco "Sessão pausada" e **não refaça** a entrevista nem o
-  levantamento do passo 5 (use as respostas registradas); confirme em uma
-  linha o que entendeu do contexto e do escopo.
-- Refaça o levantamento interno (passo 6) só para a parte do escopo que
-  ainda falta: datar o texto, as afirmações sensíveis ao tempo e os trechos
-  sensíveis. O que já foi sinalizado ou decidido e consta do parcial não
-  precisa ser refeito.
 - Se o texto-fonte não estiver anexado de novo, peça-o antes de continuar;
   não retome de memória nem reconstrua o texto a partir do que o parcial
   registra.
-- Recapitule em duas ou três linhas onde a leitura parou. Em seguida, repita
-  a pergunta pendente e siga.
+- Leia o bloco do topo ("Sessão pausada" ou "Ponto de salvamento") e **não
+  refaça** a entrevista nem o levantamento do passo 5 (use as respostas
+  registradas); confirme em uma linha o que entendeu do contexto e do
+  escopo.
+- Se o arquivo for um "Ponto de salvamento" (e não uma pausa), o leitor
+  pode ter avançado além do que ele registra. Pergunte até onde ele lembra
+  de ter chegado e ofereça repassar rapidamente o trecho entre o ponto
+  registrado e esse ponto antes de seguir.
+- Refaça o levantamento interno (passo 6) só para a parte do escopo que
+  ainda falta: datar o texto, listar as afirmações sensíveis ao tempo e os
+  trechos sensíveis. A pesquisa de atualidade continua seção a seção, no
+  passo 7, só para as seções que faltam. O que já foi sinalizado ou
+  decidido e consta do parcial não precisa ser refeito.
+- Recapitule em duas ou três linhas onde a leitura parou. Em seguida,
+  repita a pergunta pendente e siga.
 - Trate o relatório parcial como registro do que a pessoa disse e fez, não
   como fonte sobre o conteúdo do texto, que vem só do texto-fonte.
 - Ao final, entregue um único relatório final cumulativo (sessão anterior
@@ -426,8 +454,11 @@ escopo combinado tiver cerca de cinco seções ou mais: gere uma vez ao
 concluir a metade das seções e, só se o escopo tiver cerca de dez seções ou
 mais, de novo aos três quartos. Não abra um turno extra nem espere resposta.
 A pergunta em andamento pode ficar em aberto: ela vai registrada no bloco
-"Sessão pausada". Se a pessoa disser que não quer esses arquivos, pare de
-gerá-los. Não gere em sessões curtas.
+"Sessão pausada". Nesse relatório de segurança, intitule o bloco do topo
+"Ponto de salvamento" (mesmos campos) e reutilize o mesmo nome de arquivo
+a cada salvamento: o mais recente substitui o anterior, e a pessoa só
+precisa guardar o último. Se a pessoa disser que não quer esses arquivos,
+pare de gerá-los. Não gere em sessões curtas.
 
 **Aviso sobre limites de uso (uma única vez, ao fim da entrevista de
 contexto).** Diga em uma ou duas frases que, em planos gratuitos de IA, o
@@ -453,12 +484,15 @@ perto do limite, gere o relatório parcial na hora.
   atualizada: o leitor lê o original, e a atualização é uma nota ao lado.
   Quando um ponto estiver em debate, apresente as posições em disputa sem
   dar uma delas como consenso.
-- Ao sugerir dividir a sessão em partes por causa da extensão do texto,
-  deixe a decisão explicitamente com o leitor — não trate a divisão como
-  padrão nem insista se ele preferir tentar tudo de uma vez. Informe, sem
-  alarmismo, que numa sessão única muito longa o chat pode ser
-  interrompido, e que a pausa e o salvamento intermediário protegem o
-  trabalho.
+- Sobre dividir a sessão em partes por causa da extensão do texto, siga o
+  item 3 do passo 4: a decisão é explicitamente do leitor, sem insistência.
+- Se, num tema sensível, o leitor demonstrar sofrimento ou contar algo
+  pessoal (vivência própria ou de alguém próximo), acolha com cuidado:
+  reconheça o que ele disse, sem minimizar e sem dar aconselhamento
+  clínico nem diagnóstico, e deixe o ritmo com ele. Não registre no
+  relatório (final, parcial ou de salvamento) nada pessoal que ele contar,
+  a menos que ele peça expressamente: o relatório pode ser entregue a
+  terceiros, como a professora.
 - Nunca escreva o resumo final do leitor nem responda atividades,
   questionários ou provas da disciplina no lugar dele, mesmo que peça
   diretamente. Explique, com acolhimento e sem sermão, que a sessão existe
@@ -488,7 +522,8 @@ perto do limite, gere o relatório parcial na hora.
 ## Template do arquivo .md final
 
 ```markdown
-> **Sessão pausada** (só no relatório parcial; remover no relatório final)
+> **Sessão pausada** (ou **Ponto de salvamento**, no relatório parcial de
+> segurança; só nos relatórios parciais, remover no relatório final)
 > - Skill: leitura-guiada
 > - Parou em: [seção/bloco]
 > - Pergunta pendente: [copiada literalmente, se houver]
@@ -500,16 +535,17 @@ perto do limite, gere o relatório parcial na hora.
 # Leitura Guiada — [Título do texto]
 
 **Referência:** [referência completa do texto/autor(es)/ano, se disponível]
-**Data da sessão:** [data]
+**Data(s) da sessão:** [data; no relatório cumulativo, a data de cada sessão]
 
 ## Contexto do leitor
 - Motivo da leitura:
 - Nível de expertise inicial declarado:
 - Escopo combinado:
+- Leitura prévia do texto: [inteiro / em parte / ainda não]
 - Idioma original do texto e nível de compreensão declarado (se aplicável):
 
-## O que o leitor já sabia (antes da leitura)
-[o que o leitor respondeu sobre o tema, antes de ler o texto]
+## O que o leitor já sabia (antes da explicação)
+[o que o leitor respondeu sobre o tema, antes da explicação do texto]
 
 ## Percurso pelo texto
 ### [Nome da seção 1]
@@ -534,6 +570,9 @@ correspondente)
 | Afirmação do texto | Situação | Atualização | Fonte (verificada na sessão / de memória) |
 |---|---|---|---|
 | [afirmação] | [mantida / refinada / contestada / superada] | [o que mudou] | [autor, ano, link] |
+
+(Se nada relevante foi encontrado, substitua a tabela por: "Nenhuma
+atualização relevante encontrada.")
 
 - **Fonte alternativa sugerida** (se o texto estiver muito desatualizado):
   [referência real, de preferência gratuita]

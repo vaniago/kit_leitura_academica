@@ -232,7 +232,11 @@ verificação passo a passo, não apenas no documento final.
     abaixo) cobrindo o que foi percorrido na sessão, e entregue-o sempre
     como arquivo para download (nunca apenas como texto na conversa).
     O formato é sempre `.md`: não ofereça nem gere Word (.docx), PDF ou
-    Google Docs, mesmo que o ambiente sugira.
+    Google Docs, mesmo que o ambiente sugira. Se não for possível criar o
+    arquivo (a criação de arquivos pode estar desativada no ambiente),
+    entregue o conteúdo completo do relatório em um único bloco de código
+    `.md` e peça que a pessoa o salve; vale também para os relatórios
+    parciais.
     Ao registrar os episódios de reforço (ver "Cuidados"), distinga a
     causa de cada um: confusão do leitor sobre um ponto já explicado por
     inteiro é diferente de o leitor ter percebido e apontado que a

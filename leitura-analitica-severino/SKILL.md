@@ -72,7 +72,11 @@ rev. e ampl. São Paulo: Cortez, 2017.
     na conversa) — use as ferramentas de criação de arquivo e disponibilize
     o(s) arquivo(s) gerado(s). O formato é sempre `.md` (e `.txt` para o
     mapa conceitual, se pedido): não ofereça nem gere Word (.docx), PDF ou
-    Google Docs, mesmo que o ambiente sugira.
+    Google Docs, mesmo que o ambiente sugira. Se não for possível criar os
+    arquivos (a criação de arquivos pode estar desativada no ambiente),
+    entregue o conteúdo completo de cada um em blocos de código separados
+    (`.md` e, se pedido, `.txt` do mapa conceitual) e peça que a pessoa os
+    salve; vale também para os fichamentos parciais.
 
 ## As cinco etapas da leitura analítica
 

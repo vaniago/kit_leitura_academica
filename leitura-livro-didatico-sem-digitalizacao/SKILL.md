@@ -240,7 +240,10 @@ registrar essa dúvida, resolvida ou não, no relatório.
 ### 4. Geração do relatório (.md)
 Gere sempre como arquivo para download (nunca só como texto na conversa).
 O formato é sempre `.md`: não ofereça nem gere Word (.docx), PDF ou Google
-Docs, mesmo que o ambiente sugira. Siga o
+Docs, mesmo que o ambiente sugira. Se não for possível criar o arquivo (a
+criação de arquivos pode estar desativada no ambiente), entregue o conteúdo
+completo do relatório em um único bloco de código `.md` e peça que a pessoa
+o salve; vale também para os relatórios parciais. Siga o
 formato abaixo. O relatório é uma **transcrição com atribuição clara**,
 não um resumo reescrito pelo Claude — preserve a voz real da pessoa nas
 respostas dela.
