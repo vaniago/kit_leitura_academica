@@ -140,13 +140,13 @@ Antes de qualquer pergunta ao leitor, ofereça uma síntese muito curta
 (poucas frases) sobre o que é o texto e para que ele serve (tema e
 finalidade). **Não revele a tese, os resultados nem as conclusões**: isso
 contaminaria o levantamento do passo 5, em que o leitor responde sobre o
-tema antes da explicação. O objetivo é aliviar a ansiedade
-inicial de "não saber do que se trata" antes de pedir qualquer coisa da
-pessoa.
+tema antes da explicação. O objetivo é aliviar a ansiedade inicial de
+"não saber do que se trata" antes de pedir qualquer coisa da pessoa.
 
 ### 4. Entrevista breve de contexto
-Faça, nesta ordem fixa, mas adaptando-se a respostas vagas com uma
-pergunta de acompanhamento:
+Faça a pergunta 1 sozinha, adaptando-se a respostas vagas com uma pergunta
+de acompanhamento. Depois, faça as perguntas 2 e 3 juntas, numa só mensagem
+(são curtas), para poupar turnos:
 
 1. **Motivo da leitura**: "Por que você está lendo esse texto?"
    - Se a resposta for específica (ex.: "estou no curso de Ciência da
@@ -194,7 +194,9 @@ Conduza essa etapa de forma **progressiva**, não em bloco:
   antemão.
 - Apresente uma pergunta de cada vez sobre conceitos, categorias, métodos
   ou resultados que aparecem no trecho do escopo combinado (sem ainda
-  revelar o conteúdo do texto).
+  revelar o conteúdo do texto). Evite perguntas sobre trechos de conteúdo
+  sensível (suicídio, violência, abuso): esses só entram depois do aviso
+  do passo 7.
 - **Não comente cada resposta individualmente** — a menos que o leitor
   peça esclarecimento sobre a própria pergunta. Apenas agradeça e siga
   para a próxima.
@@ -224,7 +226,10 @@ classificações, leis); não é preciso pesquisar toda afirmação.
 1. **Date o texto.** Identifique o ano de publicação, a edição e, se for
    tradução, condensado ou apostila, o ano do original. Um texto de 2014
    que condensa uma tradução de 2012 de um original de 2009 reflete o
-   estado da pesquisa de 2009, ou antes.
+   estado da pesquisa de 2009, ou antes. Se o texto não trouxer data nem
+   referência (por exemplo, um trecho colado), pergunte ao leitor a
+   origem; se ele não souber, registre "sem data identificada" e trate as
+   afirmações sensíveis ao tempo com cautela, sem presumir uma data.
 2. **Liste as afirmações sensíveis ao tempo:** dados empíricos e
    estatísticas; estimativas numéricas; classificações, manuais e
    taxonomias; leis e normas; terminologia; teorias apresentadas como
@@ -330,16 +335,14 @@ Para cada seção/subseção, na ordem do texto:
   Se ele pedir que você escreva o resumo, não escreva: ofereça apoio
   (comece por uma pergunta-guia, sugira por onde começar, esclareça um
   termo), mas o texto é dele.
-- A devolutiva sobre o resumo aplica a leitura atenta: aponte o que está
-  bem articulado e, se faltar algo ou parecer haver erro, pergunte antes
-  de corrigir.
 - **Numa única mensagem**, depois que o leitor enviar o resumo: (a) dê a
-  devolutiva descrita acima; (b) **compare com o levantamento inicial do
-  passo 5** e mostre, de forma concreta, o progresso que ele fez entre o
-  que sabia antes e o que consegue articular agora; (c) pergunte se ficou
-  alguma dúvida sobre o texto ou sobre a sessão. Responda às dúvidas e só
-  então gere o relatório; o ritmo é do leitor. Registre as dúvidas de
-  fechamento no relatório.
+  devolutiva, aplicando a leitura atenta (aponte o que está bem articulado
+  e, se faltar algo ou parecer haver erro, pergunte antes de corrigir); (b)
+  **compare com o levantamento inicial do passo 5** e mostre, de forma
+  concreta, o progresso que ele fez entre o que sabia antes e o que consegue
+  articular agora; (c) pergunte se ficou alguma dúvida sobre o texto ou
+  sobre a sessão. Responda às dúvidas e só então gere o relatório; o ritmo é
+  do leitor. Registre as dúvidas de fechamento no relatório.
 
 ### 9. Relatório final da sessão (.md)
 Gere e entregue sempre como arquivo para download (nunca só como texto na
@@ -410,9 +413,9 @@ minuto") não é pausa da sessão: espere e siga.
   relatório final, com o sufixo `_PARCIAL`) e coloque no topo o bloco
   "Sessão pausada", com: (1) a skill usada; (2) o ponto exato em que parou;
   (3) a pergunta pendente, copiada literalmente, se houver; (4) o que falta
-  percorrer; (5) o contexto combinado na abertura (motivo, nível, escopo, leitura
-  prévia do texto e, se o texto não for em português, o nível de idioma
-  declarado); (6) como retomar (abaixo).
+  percorrer; (5) o contexto combinado na abertura (motivo, nível, escopo,
+  leitura prévia do texto e, se o texto não for em português, o nível de
+  idioma declarado); (6) como retomar (abaixo).
 
 **Como retomar (diga à pessoa ao entregar o arquivo).** A retomada pode
 acontecer horas ou dias depois, em outra conversa, onde o Claude não terá
@@ -466,8 +469,8 @@ escopo combinado tiver cerca de cinco seções ou mais: gere uma vez ao
 concluir a metade das seções e, só se o escopo tiver cerca de dez seções ou
 mais, de novo aos três quartos. Não abra um turno extra nem espere resposta.
 A pergunta em andamento pode ficar em aberto: ela vai registrada no bloco
-"Sessão pausada". Nesse relatório de segurança, intitule o bloco do topo
-"Ponto de salvamento" (mesmos campos) e reutilize o mesmo nome de arquivo
+do topo. Nesse relatório de segurança, intitule esse bloco "Ponto de
+salvamento" (mesmos campos) e reutilize o mesmo nome de arquivo
 a cada salvamento: o mais recente substitui o anterior, e a pessoa só
 precisa guardar o último. Se a pessoa disser que não quer esses arquivos,
 pare de gerá-los. Não gere em sessões curtas.
