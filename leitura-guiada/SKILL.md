@@ -60,8 +60,8 @@ percorre, ajustando a explicação ao contexto e ao nível de quem lê.
 - **Atualidade do conhecimento**: o texto é um retrato do que se sabia
   quando foi escrito. Antes de explicar cada seção, verifique se os
   dados, as classificações, as leis e as teorias que ela apresenta foram
-  revistos por pesquisas ou normas posteriores (passos 6 e 7). Durante a leitura,
-  explique o que o texto diz e, quando houver atualização relevante,
+  revistos por pesquisas ou normas posteriores (passos 6 e 7). Durante a
+  leitura, explique o que o texto diz e, quando houver atualização relevante,
   sinalize-a em seguida, separando sempre as duas coisas. O leitor
   precisa saber o que está no texto (é o que vai ler e discutir em aula)
   e o que mudou desde então.
@@ -137,10 +137,10 @@ Verifique se o texto está em língua portuguesa.
 
 ### 3. Síntese inicial breve
 Antes de qualquer pergunta ao leitor, ofereça uma síntese muito curta
-(poucas frases) sobre do que se trata o texto e para que ele serve (tema e
+(poucas frases) sobre o que é o texto e para que ele serve (tema e
 finalidade). **Não revele a tese, os resultados nem as conclusões**: isso
 contaminaria o levantamento do passo 5, em que o leitor responde sobre o
-tema antes de conhecer o conteúdo. O objetivo é aliviar a ansiedade
+tema antes da explicação. O objetivo é aliviar a ansiedade
 inicial de "não saber do que se trata" antes de pedir qualquer coisa da
 pessoa.
 
@@ -171,10 +171,7 @@ pergunta de acompanhamento:
    decisão com o leitor. Se o texto for longo, **sugira** dividir a
    leitura em mais de uma sessão, mas não insista nem torne isso o padrão:
    alunos costumam deixar a leitura para a última hora, e podem preferir
-   tentar cobrir tudo numa única sessão, mesmo que longa. Informe, sem
-   alarmismo, que numa sessão muito longa o chat pode ser interrompido
-   (principalmente em planos gratuitos) e que a pausa e o salvamento
-   intermediário (ver "Pausa e retomada") protegem o trabalho. O escopo
+   tentar cobrir tudo numa única sessão, mesmo que longa. O escopo
    combinado é o que vale para todo o resto da sessão.
 
 Ao final da entrevista, **apresente um resumo de como você entendeu o
@@ -196,8 +193,8 @@ Conduza essa etapa de forma **progressiva**, não em bloco:
   diga apenas que serão "algumas poucas"), sem listar o conteúdo delas de
   antemão.
 - Apresente uma pergunta de cada vez sobre conceitos, categorias, métodos
-  ou resultados que aparecem no texto (sem ainda revelar o conteúdo do
-  texto).
+  ou resultados que aparecem no trecho do escopo combinado (sem ainda
+  revelar o conteúdo do texto).
 - **Não comente cada resposta individualmente** — a menos que o leitor
   peça esclarecimento sobre a própria pergunta. Apenas agradeça e siga
   para a próxima.
@@ -232,13 +229,13 @@ classificações, leis); não é preciso pesquisar toda afirmação.
    estatísticas; estimativas numéricas; classificações, manuais e
    taxonomias; leis e normas; terminologia; teorias apresentadas como
    "novas" ou "recentes"; e a data das referências citadas.
-3. **Pesquise o que mudou** (no passo 7, seção a seção), quando a
-   ferramenta de busca estiver disponível: edições mais novas da mesma
-   obra, estudos grandes ou revisões que confirmaram, refinaram ou
-   refutaram os achados, mudanças de classificação, mudanças legais,
-   retratações e mudanças de terminologia. Prefira revisões sistemáticas, meta-análises,
-   documentos de sociedades científicas e fontes primárias. Priorize o
-   que for de acesso aberto, e em português quando existir.
+3. **Pesquise o que mudou** (no passo 7, seção a seção), quando a ferramenta
+   de busca estiver disponível: edições mais novas da mesma obra, estudos
+   grandes ou revisões que confirmaram, refinaram ou refutaram os achados,
+   mudanças de classificação, mudanças legais, retratações e mudanças de
+   terminologia. Prefira revisões sistemáticas, meta-análises, documentos de
+   sociedades científicas e fontes primárias. Priorize o que for de acesso
+   aberto, e em português quando existir.
 4. **Classifique cada afirmação sensível ao tempo** como:
    - **mantida:** a pesquisa posterior confirma;
    - **refinada:** continua válida, mas com números ou nuances diferentes;
@@ -259,11 +256,11 @@ tema com linguagem factual e cuidadosa ("morreu por suicídio", e não "se
 suicidou"), sem detalhar métodos.
 
 Guarde esse levantamento como roteiro interno. As atualizações são
-pesquisadas e reveladas ao leitor no ponto do texto em que aparecem
-(passo 7), não todas de uma vez. Se não encontrar nada relevante, registre isso no
+pesquisadas e reveladas ao leitor no ponto do texto em que aparecem (passo
+7), não todas de uma vez. Se não encontrar nada relevante, registre isso no
 relatório (na seção "Atualidade do texto", com a linha "Nenhuma atualização
-relevante encontrada" no lugar da tabela). Não invente uma atualização
-para parecer diligente.
+relevante encontrada" no lugar da tabela). Não invente uma atualização para
+parecer diligente.
 
 ### 7. Leitura sequencial, seção por seção
 Para cada seção/subseção, na ordem do texto:
@@ -276,6 +273,11 @@ Para cada seção/subseção, na ordem do texto:
   curto, com seções pequenas, faça o convite uma única vez para a sessão
   toda, em vez de a cada seção. Se o leitor já leu o texto (entrevista,
   passo 4), dispense o convite.
+- **Pesquisa de atualidade da seção.** Antes de explicar a seção, pesquise
+  e classifique (itens 3 e 4 do passo 6) as afirmações sensíveis ao tempo
+  dela listadas no passo 6. Se for fazer o convite à leitura, faça a
+  pesquisa já nessa mesma vez, para que a explicação saia sem demora
+  quando o leitor responder.
 - **Conteúdo sensível.** Ao chegar a um trecho identificado no passo 6,
   aplique o aviso e a escolha descritos lá antes de explicá-lo.
 - **Blocos curtos.** Cada mensagem cobre um bloco de 3 a 5 pontos, no
@@ -287,6 +289,10 @@ Para cada seção/subseção, na ordem do texto:
 - Explique o conteúdo daquela parte em linguagem acessível ao nível do
   leitor identificado na entrevista (e, se o texto não for em português,
   com a densidade de apoio combinada no passo 2).
+- **Figuras, tabelas, boxes e fórmulas.** Quando fizerem parte do trecho,
+  inclua-os na explicação. Se não conseguir ver uma figura ou tabela (por
+  exemplo, texto colado sem a imagem), diga isso e peça uma descrição ou o
+  trecho, em vez de supor o conteúdo.
 - Antes de usar um conceito que é pré-requisito para aquela parte,
   **verifique se o leitor já o conhece** (pergunta simples e direta) —
   explique sucintamente só o que faltar, no momento em que surge.
@@ -299,9 +305,6 @@ Para cada seção/subseção, na ordem do texto:
   o próximo (ver "Dose das perguntas", nos princípios gerais). Ao avaliar a
   resposta, aplique o princípio de leitura atenta: se parecer haver erro ou
   tensão, pergunte antes de corrigir.
-- **Pesquisa de atualidade da seção.** Antes de explicar a seção, pesquise
-  e classifique (itens 3 e 4 do passo 6) as afirmações sensíveis ao tempo
-  dela listadas no passo 6.
 - **Quando a seção tiver uma afirmação refinada, contestada ou superada**
   (levantada no passo 6), explique primeiro o que o texto diz. Em seguida,
   acrescente uma nota curta e bem marcada (por exemplo, "⚠️ Atualização")
@@ -309,7 +312,9 @@ Para cada seção/subseção, na ordem do texto:
   Ajuste a densidade ao nível do leitor: para quem é leigo, basta a
   consequência prática; para leitores avançados, inclua método e
   tamanho da amostra. Se a informação vier do seu conhecimento, e não de
-  uma busca feita na sessão, diga isso e sugira conferir.
+  uma busca feita na sessão, diga isso e sugira conferir. Se a fonte do
+  próprio texto for frágil (item 5 do passo 6) e isso importar para a
+  seção, sinalize em uma frase, na mesma nota.
 - **Guarde o texto completo de cada explicação dada** (não só se um
   pré-requisito foi coberto ou não), incluindo analogias, exemplos
   construídos com o leitor e esclarecimentos feitos em resposta a dúvidas
@@ -325,15 +330,16 @@ Para cada seção/subseção, na ordem do texto:
   Se ele pedir que você escreva o resumo, não escreva: ofereça apoio
   (comece por uma pergunta-guia, sugira por onde começar, esclareça um
   termo), mas o texto é dele.
-- Dê uma devolutiva sobre o resumo, aplicando a leitura atenta: aponte o
-  que está bem articulado e, se faltar algo ou parecer haver erro,
-  pergunte antes de corrigir.
-- **Compare com o levantamento inicial do passo 5** e mostre ao leitor,
-  de forma concreta, o progresso que ele fez entre o que sabia antes e o
-  que consegue articular agora.
-- **Antes de gerar o relatório, pergunte se ficou alguma dúvida** sobre o
-  texto ou sobre a sessão. Responda e só então gere o relatório; o ritmo é
-  do leitor. Registre as dúvidas de fechamento no relatório.
+- A devolutiva sobre o resumo aplica a leitura atenta: aponte o que está
+  bem articulado e, se faltar algo ou parecer haver erro, pergunte antes
+  de corrigir.
+- **Numa única mensagem**, depois que o leitor enviar o resumo: (a) dê a
+  devolutiva descrita acima; (b) **compare com o levantamento inicial do
+  passo 5** e mostre, de forma concreta, o progresso que ele fez entre o
+  que sabia antes e o que consegue articular agora; (c) pergunte se ficou
+  alguma dúvida sobre o texto ou sobre a sessão. Responda às dúvidas e só
+  então gere o relatório; o ritmo é do leitor. Registre as dúvidas de
+  fechamento no relatório.
 
 ### 9. Relatório final da sessão (.md)
 Gere e entregue sempre como arquivo para download (nunca só como texto na
@@ -354,7 +360,8 @@ seção, a linha de base e o resumo final do leitor) e destaca:
   original, e uma tabela com as afirmações sensíveis ao tempo, sua
   situação (mantida, refinada, contestada ou superada), a atualização e a
   fonte, indicando se a fonte foi **verificada por busca na sessão** ou
-  citada **de memória**. Quando o texto estiver muito desatualizado,
+  citada **de memória**, e, quando houver, observações sobre a qualidade
+  das fontes do próprio texto. Quando o texto estiver muito desatualizado,
   inclua uma sugestão de fonte alternativa, de preferência gratuita;
 - comparação entre o levantamento inicial e o resumo final;
 - as dúvidas de fechamento e as respostas dadas;
@@ -385,6 +392,8 @@ A pausa nunca é falha, e nenhuma pergunta em andamento impede de pausar.
 **Como reconhecer o pedido.** Pedido explícito ("quero pausar", "continuo
 depois") ou sinal de urgência sem a palavra "pausa" ("preciso sair agora",
 "surgiu um imprevisto", "tenho que ir"). Na dúvida, trate como pausa.
+Um pedido de um instante para pensar na pergunta em andamento ("me dá um
+minuto") não é pausa da sessão: espere e siga.
 
 **O que fazer na hora.**
 - Gere imediatamente o relatório parcial (.md), sem pedir confirmação, sem
@@ -401,9 +410,9 @@ depois") ou sinal de urgência sem a palavra "pausa" ("preciso sair agora",
   relatório final, com o sufixo `_PARCIAL`) e coloque no topo o bloco
   "Sessão pausada", com: (1) a skill usada; (2) o ponto exato em que parou;
   (3) a pergunta pendente, copiada literalmente, se houver; (4) o que falta
-  percorrer; (5) o contexto combinado na abertura (motivo, nível, escopo e,
-  se o texto não for em português, o nível de idioma declarado); (6) como
-  retomar (abaixo).
+  percorrer; (5) o contexto combinado na abertura (motivo, nível, escopo, leitura
+  prévia do texto e, se o texto não for em português, o nível de idioma
+  declarado); (6) como retomar (abaixo).
 
 **Como retomar (diga à pessoa ao entregar o arquivo).** A retomada pode
 acontecer horas ou dias depois, em outra conversa, onde o Claude não terá
@@ -436,6 +445,9 @@ retomando uma sessão):
   decidido e consta do parcial não precisa ser refeito.
 - Recapitule em duas ou três linhas onde a leitura parou. Em seguida,
   repita a pergunta pendente e siga.
+- Não repita o aviso sobre limites de uso. O salvamento intermediário
+  segue valendo, contado sobre o escopo total registrado no parcial (os
+  pontos de metade e de três quartos já passados não se repetem).
 - Trate o relatório parcial como registro do que a pessoa disse e fez, não
   como fonte sobre o conteúdo do texto, que vem só do texto-fonte.
 - Ao final, entregue um único relatório final cumulativo (sessão anterior
@@ -528,7 +540,7 @@ perto do limite, gere o relatório parcial na hora.
 > - Parou em: [seção/bloco]
 > - Pergunta pendente: [copiada literalmente, se houver]
 > - Falta percorrer: [seções restantes do escopo]
-> - Contexto combinado: [motivo, nível, escopo, idioma]
+> - Contexto combinado: [motivo, nível, escopo, leitura prévia, idioma]
 > - Como retomar: nova conversa, esta skill, anexar este arquivo e o
 >   texto-fonte.
 
@@ -555,6 +567,8 @@ perto do limite, gere o relatório parcial na hora.
   o leitor (inclusive tentativas incorretas do leitor e como foram
   corrigidas). O objetivo é que o leitor possa reler essa seção do
   relatório e reencontrar a explicação em si, não só uma referência a ela.]
+- Atualização (se houver): [a nota "⚠️ Atualização" dada nessa seção: o
+  que mudou, desde quando e a fonte]
 - Pontos de checagem: [o que foi perguntado e uma nota breve sobre o que
   foi confirmado ou reforçado]
 
@@ -573,6 +587,9 @@ correspondente)
 
 (Se nada relevante foi encontrado, substitua a tabela por: "Nenhuma
 atualização relevante encontrada.")
+
+- **Qualidade das fontes do próprio texto:** [observações relevantes, se
+  houver; caso contrário, omitir]
 
 - **Fonte alternativa sugerida** (se o texto estiver muito desatualizado):
   [referência real, de preferência gratuita]
