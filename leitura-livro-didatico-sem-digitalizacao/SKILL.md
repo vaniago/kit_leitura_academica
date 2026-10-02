@@ -167,6 +167,9 @@ começar:
   do Claude, se a pessoa já não estiver usando esse recurso. 
   Instrua a pessoa sobre como fazer isso, se ela não souber.
 
+Ao fim da abertura, dê uma única vez o aviso sobre limites de uso descrito
+em "Pausa e retomada".
+
 ### 2. Leitura relatada, seção por seção
  **Na primeira página e ao notar início de uma nova página, peça uma descrição da página**: pergunte se há
   imagens, palavras em destaque, quadros de texto, tabelas ou boxes em destaque, e o que
@@ -344,6 +347,16 @@ retomando uma sessão):
 - Ao final, entregue um único relatório final cumulativo (sessão anterior
   + atual), preservando literalmente o que a pessoa registrou no parcial.
   Se ela precisar pausar de novo, repita o procedimento.
+
+**Aviso sobre limites de uso (uma única vez, ao fim da abertura da sessão,
+depois de delimitada a unidade de leitura).** Diga em uma ou duas frases
+que, em planos gratuitos de IA, o chat pode pausar por limite de uso no meio
+de uma sessão longa; que se isso acontecer a pessoa pode voltar depois e
+retomar com o relatório parcial (anexando-o e tendo o livro físico à mão); e
+que, se perceber que está perto do limite, pode pedir o relatório parcial
+antes. Não cite números nem nomes de planos (variam e mudam) e não repita o
+aviso depois. Se a pessoa disser que está perto do limite, gere o relatório
+parcial na hora.
 
 ## Cuidados
 

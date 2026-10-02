@@ -57,6 +57,8 @@ rev. e ampl. São Paulo: Cortez, 2017.
    final é sempre o documento completo com as cinco etapas, independente do
    modo escolhido. Os demais formatos (bibliográfico, citações, resumo
    indicativo, resumo informativo) pulam essa pergunta.
+   Depois de definidos unidade, formato e modo, dê uma única vez o aviso
+   sobre limites de uso descrito em "Pausa e retomada".
 6. **Execute as etapas 1 e 2 (textual e temática) sempre internamente**,
    independentemente do formato de saída — são a base de compreensão do
    texto que sustenta qualquer formato.
@@ -262,6 +264,16 @@ retomando uma sessão):
 - Ao final, entregue um único relatório final cumulativo (sessão anterior
   + atual), preservando literalmente o que a pessoa registrou no parcial.
   Se ela precisar pausar de novo, repita o procedimento.
+
+**Aviso sobre limites de uso (uma única vez, logo após definir unidade de
+leitura, formato e modo de condução).** Diga em uma ou duas frases que, em
+planos gratuitos de IA, o chat pode pausar por limite de uso no meio de uma
+sessão longa; que se isso acontecer a pessoa pode voltar depois e retomar
+com o relatório parcial (anexando-o junto com o texto-fonte); e que, se
+perceber que está perto do limite, pode pedir o relatório parcial antes. Não
+cite números nem nomes de planos (variam e mudam) e não repita o aviso
+depois. Se a pessoa disser que está perto do limite, gere o relatório
+parcial na hora.
 
 ## Tipos de fichamento (formatos de saída)
 
