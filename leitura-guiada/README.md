@@ -11,24 +11,29 @@ cinco etapas metodológicas) e do `tutor-de-texto` (que reorganiza o
 conteúdo numa sequência pedagógica própria), esta skill segue exatamente
 o caminho que o texto percorre, centrada no leitor e no seu contexto:
 
-1. Faz uma síntese inicial breve do texto, para aliviar a ansiedade de
-   começar sem saber do que se trata.
-2. Conduz uma entrevista breve sobre o motivo da leitura e o nível de
-   expertise no tema.
+1. Faz uma síntese inicial breve (tema e finalidade, sem revelar a tese),
+   para aliviar a ansiedade de começar sem saber do que se trata.
+2. Conduz uma entrevista breve sobre o motivo da leitura, o nível de
+   expertise no tema e o escopo (texto inteiro ou um recorte).
 3. Levanta o que o leitor já sabe sobre o assunto, antes de ler.
 4. Verifica se o texto está desatualizado (dados, classificações, leis,
    teorias) e, durante a leitura, sinaliza as atualizações em notas
    curtas, separadas do que o texto diz.
-5. Acompanha a leitura seção por seção, em blocos curtos, explicando
-   pré-requisitos sob demanda, checando a compreensão e avisando antes de trechos sensíveis. Se o leitor contestar
-   algo, dialoga com honestidade (sem conceder só para avançar) e registra a
-   discordância fundamentada no relatório, como contribuição dele para
-   seminários e debates. Permite
-   pausar a qualquer momento (inclusive por urgência) e retomar depois, em
-   outra conversa, anexando o relatório parcial e o texto. Em sessões longas, a skill também entrega, sem interromper, um relatório parcial de segurança no meio do percurso.
-6. Ao final, compara o que o leitor sabia antes com o que consegue
-   articular depois, e mostra o progresso de forma concreta.
-7. Gera um arquivo `.md` com o relatório da sessão (incluindo a tabela de
+5. Acompanha a leitura seção por seção, em blocos curtos: convida (sem
+   exigir) a ler cada trecho no original, explica pré-requisitos sob
+   demanda, checa a compreensão e avisa antes de trechos sensíveis (que o
+   leitor pode optar por pular). Se o leitor contestar algo, dialoga com
+   honestidade (sem conceder só para avançar) e registra a discordância
+   fundamentada no relatório, como contribuição dele para seminários e
+   debates.
+6. Permite pausar a qualquer momento (inclusive por urgência) e retomar
+   depois, em outra conversa, anexando o relatório parcial e o texto. Em
+   sessões longas, entrega sem interromper um relatório parcial de
+   segurança no meio do percurso.
+7. Ao final, compara o que o leitor sabia antes com o que consegue
+   articular depois e responde às dúvidas de fechamento. A skill não
+   escreve o resumo nem responde atividades no lugar do leitor.
+8. Gera um arquivo `.md` com o relatório da sessão (incluindo a tabela de
    atualidade do texto e as questões abertas) e recomendações de
    leitura complementar (de fundamentos e por interesse espontâneo).
 
