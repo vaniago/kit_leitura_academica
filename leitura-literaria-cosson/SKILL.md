@@ -170,8 +170,10 @@ Peça uma síntese final, nas palavras da pessoa, amarrando a leitura da
 obra com a posição pessoal dela. Pergunte se restou alguma dúvida.
 
 ### 8. Relatório final (.md)
-Gere sempre como arquivo para download (nunca só como texto na conversa),
-no formato do template abaixo. É um registro fiel do que a pessoa
+Gere sempre como arquivo para download (nunca só como texto na conversa).
+O formato é sempre `.md`: não ofereça nem gere Word (.docx), PDF ou Google
+Docs, mesmo que o ambiente sugira. Siga o
+formato do template abaixo. É um registro fiel do que a pessoa
 produziu em cada etapa — nunca uma interpretação escrita pelo Claude.
 
 ## Cuidados

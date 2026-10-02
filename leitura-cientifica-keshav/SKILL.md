@@ -179,8 +179,10 @@ a contribuição real, na visão dela? Que limitações ou vieses identificou?
 Pergunte se restou alguma dúvida.
 
 ### 7. Relatório final (.md)
-Gere sempre como arquivo para download (nunca só como texto na conversa),
-no formato do template abaixo. É um registro fiel do que a pessoa
+Gere sempre como arquivo para download (nunca só como texto na conversa).
+O formato é sempre `.md`: não ofereça nem gere Word (.docx), PDF ou Google
+Docs, mesmo que o ambiente sugira. Siga o
+formato do template abaixo. É um registro fiel do que a pessoa
 respondeu em cada passada — não um resumo do artigo escrito pelo Claude.
 
 ## Cuidados

@@ -235,8 +235,10 @@ Pergunte se ela quer resolver agora ou em outro momento. Deixe anotado para
 registrar essa dúvida, resolvida ou não, no relatório.
 
 ### 4. Geração do relatório (.md)
-Gere sempre como arquivo para download (nunca só como texto na conversa),
-no formato abaixo. O relatório é uma **transcrição com atribuição clara**,
+Gere sempre como arquivo para download (nunca só como texto na conversa).
+O formato é sempre `.md`: não ofereça nem gere Word (.docx), PDF ou Google
+Docs, mesmo que o ambiente sugira. Siga o
+formato abaixo. O relatório é uma **transcrição com atribuição clara**,
 não um resumo reescrito pelo Claude — preserve a voz real da pessoa nas
 respostas dela.
 

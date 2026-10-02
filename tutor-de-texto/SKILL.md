@@ -231,6 +231,8 @@ verificação passo a passo, não apenas no documento final.
 12. **Gere o arquivo .md de resumo/roteiro de estudo** (ver template
     abaixo) cobrindo o que foi percorrido na sessão, e entregue-o sempre
     como arquivo para download (nunca apenas como texto na conversa).
+    O formato é sempre `.md`: não ofereça nem gere Word (.docx), PDF ou
+    Google Docs, mesmo que o ambiente sugira.
     Ao registrar os episódios de reforço (ver "Cuidados"), distinga a
     causa de cada um: confusão do leitor sobre um ponto já explicado por
     inteiro é diferente de o leitor ter percebido e apontado que a

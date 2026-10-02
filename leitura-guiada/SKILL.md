@@ -290,6 +290,8 @@ Se o leitor pedir para pausar, em qualquer momento da sessão:
 ### 9. Relatório final da sessão (.md)
 Gere e entregue sempre como arquivo para download (nunca só como texto na
 conversa) um relatório contendo:
+(o formato é sempre `.md`: não ofereça nem gere Word (.docx), PDF ou Google
+Docs, mesmo que o ambiente sugira.)
 - tópicos que o leitor demonstrou compreender;
 - tópicos que precisam de revisão;
 - **a verificação de atualidade do texto**: a data do texto e de sua fonte

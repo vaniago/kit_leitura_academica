@@ -68,7 +68,9 @@ rev. e ampl. São Paulo: Cortez, 2017.
    arquivo separado do .md.
 10. **Entregue sempre como arquivo(s) para download** (nunca só como texto
     na conversa) — use as ferramentas de criação de arquivo e disponibilize
-    o(s) arquivo(s) gerado(s).
+    o(s) arquivo(s) gerado(s). O formato é sempre `.md` (e `.txt` para o
+    mapa conceitual, se pedido): não ofereça nem gere Word (.docx), PDF ou
+    Google Docs, mesmo que o ambiente sugira.
 
 ## As cinco etapas da leitura analítica
 
