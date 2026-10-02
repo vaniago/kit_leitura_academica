@@ -197,6 +197,19 @@ respondeu em cada passada — não um resumo do artigo escrito pelo Claude.
 - Se a sessão for longa (a Passada 3 pode levar horas para quem tem mais
   experiência), deixe explícito que dá para dividir em mais de uma sessão
   — a decisão de continuar ou pausar é da pessoa.
+- **Pausa e retomada.** Se a pessoa pedir para pausar, gere na hora, sem
+  pedir confirmação, um relatório parcial (.md) com o mesmo template,
+  preenchido até a passada em que parou, marcando no topo onde parou e a
+  pergunta pendente. Na retomada, recapitule em duas ou três linhas e
+  repita a pergunta pendente.
+- **Aviso sobre limites de uso (uma única vez, ao fim da entrevista de
+  contexto).** Diga em uma ou duas frases que, em planos gratuitos de IA,
+  o chat pode pausar por limite de uso no meio da sessão; que se isso
+  acontecer a pessoa pode voltar depois e retomar a partir do relatório
+  parcial; e que, se perceber que está perto do limite, pode pedir esse
+  relatório antes. Não cite números nem nomes de planos e não repita o
+  aviso depois. Se a pessoa disser que está perto do limite, gere o
+  relatório parcial na hora.
 - Mantenha o tom acolhedor mesmo quando o relato da pessoa estiver
   incompleto — o objetivo é apontar o que falta conferir no texto, não
   avaliar desempenho.
