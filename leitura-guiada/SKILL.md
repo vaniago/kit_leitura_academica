@@ -48,7 +48,9 @@ percorre, ajustando a explicação ao contexto e ao nível de quem lê.
   seguidos, passe a checar a cada dois blocos; verifique pré-requisitos só
   de termos que o nível declarado indica que ele provavelmente não conhece;
   se ele sinalizar cansaço ou pressa, reduza as perguntas ao essencial.
-  Nunca elimine a checagem dos conceitos centrais do texto.
+  Em texto curto (poucas páginas, por exemplo até cerca de cinco), basta
+  uma checagem por seção, não por bloco. Nunca elimine a checagem dos
+  conceitos centrais do texto.
 - **Atenção contínua ao interesse espontâneo**: ao longo de toda a sessão
   — não só em pontos de checagem formais —, registre sinais de curiosidade
   genuína do leitor (perguntas extras, comentários, "isso me interessa",
@@ -164,9 +166,10 @@ de acompanhamento. Depois, faça as perguntas 2 e 3 juntas, numa só mensagem
 2. **Nível de expertise no tema**: já estudou ou conhece o assunto? é
    novato completo? já leu outros textos sobre o tema? E sobre este texto:
    já leu (inteiro ou em parte) ou ainda não? Registre a resposta; ela
-   define o uso do convite à leitura no passo 7. Se o texto não trouxer
-   data nem referência (por exemplo, um trecho colado), pergunte também de
-   onde ele vem (autoria, ano, obra de origem).
+   define o uso do convite à leitura no passo 7. Se o texto não trouxer um
+   ano de publicação identificável (mesmo que traga autoria ou
+   referências, ou seja um trecho colado), pergunte também de onde ele vem
+   (obra de origem, ano).
 3. **Escopo da leitura**: quanto do texto o leitor quer percorrer. Com
    base no motivo declarado, proponha uma opção (o texto inteiro ou um
    recorte de seções/trechos ligado ao motivo, indicando quais) e deixe a
@@ -207,6 +210,9 @@ Conduza essa etapa de forma **progressiva**, não em bloco:
   "Esse texto vai te ajudar bastante nesse ponto", acompanhado de um
   comentário mais específico e genuinamente motivador, não genérico).
 
+Se uma resposta trouxer uma ideia equivocada ou um estereótipo, não corrija
+agora: registre e retome quando a parte do texto correspondente chegar.
+
 Registre as respostas — elas servem de linha de base para mostrar o
 progresso do leitor ao final da sessão.
 
@@ -228,10 +234,12 @@ classificações, leis); não é preciso pesquisar toda afirmação.
 1. **Date o texto.** Identifique o ano de publicação, a edição e, se for
    tradução, condensado ou apostila, o ano do original. Um texto de 2014
    que condensa uma tradução de 2012 de um original de 2009 reflete o
-   estado da pesquisa de 2009, ou antes. Se mesmo assim não houver data nem
-   referência (o leitor não soube informar a origem), registre "sem data
-   identificada" e trate as afirmações sensíveis ao tempo com cautela, sem
-   presumir uma data.
+   estado da pesquisa de 2009, ou antes. Se mesmo assim não houver ano
+   identificável (o leitor não soube informar), estime com cautela a partir
+   da obra mais recente que o texto cita e diga que é uma estimativa (por
+   exemplo: "cita obra de 2021, então é de 2021 em diante"); se nem isso for
+   possível, registre "sem data identificada". Em ambos os casos, trate as
+   afirmações sensíveis ao tempo com cautela.
 2. **Liste as afirmações sensíveis ao tempo:** dados empíricos e
    estatísticas; estimativas numéricas; classificações, manuais e
    taxonomias; leis e normas; terminologia; teorias apresentadas como
@@ -320,7 +328,9 @@ Para cada seção/subseção, na ordem do texto:
   Ajuste a densidade ao nível do leitor: para quem é leigo, basta a
   consequência prática; para leitores avançados, inclua método e
   tamanho da amostra. Se a informação vier do seu conhecimento, e não de
-  uma busca feita na sessão, diga isso e sugira conferir. Se a fonte do
+  uma busca feita na sessão, diga isso e sugira conferir. Se só encontrar
+  fonte secundária (um texto que cita o estudo, página de livraria etc.) e
+  não o original, diga isso também e sugira conferir. Se a fonte do
   próprio texto for frágil (item 5 do passo 6) e isso importar para a
   seção, sinalize em uma frase, na mesma nota.
 - **Guarde o texto completo de cada explicação dada** (não só se um
@@ -363,12 +373,13 @@ seção, a linha de base e o resumo final do leitor) e destaca:
 - tópicos que o leitor demonstrou compreender;
 - tópicos que precisam de revisão;
 - **a verificação de atualidade do texto**: a data do texto e de sua fonte
-  original, e uma tabela com as afirmações sensíveis ao tempo, sua
-  situação (mantida, refinada, contestada ou superada), a atualização e a
-  fonte, indicando se a fonte foi **verificada por busca na sessão** ou
-  citada **de memória**, e, quando houver, observações sobre a qualidade
-  das fontes do próprio texto. Quando o texto estiver muito desatualizado,
-  inclua uma sugestão de fonte alternativa, de preferência gratuita;
+  original, e uma tabela com as afirmações sensíveis ao tempo, sua situação
+  (mantida, refinada, contestada ou superada), a atualização e a fonte,
+  indicando se a fonte foi **verificada por busca na sessão** (em fonte
+  primária ou secundária) ou citada **de memória**, e, quando houver,
+  observações sobre a qualidade das fontes do próprio texto. Quando o texto
+  estiver muito desatualizado, inclua uma sugestão de fonte alternativa, de
+  preferência gratuita;
 - comparação entre o levantamento inicial e o resumo final;
 - as dúvidas de fechamento e as respostas dadas;
 - **as questões abertas e as contribuições críticas do leitor**: um
@@ -468,15 +479,17 @@ de aviso (por exemplo: "segue um relatório parcial de segurança; guarde o
 arquivo e vamos seguindo"). A mensagem normalmente termina com uma pergunta
 ao leitor; se terminar no estado de uma questão contestada (sem pergunta de
 transição), anexe mesmo assim, sem acrescentar pergunta. Aplique quando o
-escopo combinado tiver cerca de cinco seções ou mais: gere uma vez ao
-concluir a metade das seções e, só se o escopo tiver cerca de dez seções ou
-mais, de novo aos três quartos. Não abra um turno extra nem espere resposta.
-A pergunta em andamento pode ficar em aberto: ela vai registrada no bloco
-do topo. Nesse relatório de segurança, intitule esse bloco "Ponto de
-salvamento" (mesmos campos) e reutilize o mesmo nome de arquivo
-a cada salvamento: o mais recente substitui o anterior, e a pessoa só
-precisa guardar o último. Se a pessoa disser que não quer esses arquivos,
-pare de gerá-los. Não gere em sessões curtas.
+escopo combinado tiver cerca de cinco seções ou mais e o texto não for curto
+(por exemplo, mais de cerca de cinco páginas); em texto curto, não gere,
+mesmo que tenha várias seções. Gere uma vez ao concluir a metade das seções
+e, só se o escopo tiver cerca de dez seções ou mais, de novo aos três
+quartos. Não abra um turno extra nem espere resposta. A pergunta em
+andamento pode ficar em aberto: ela vai registrada no bloco do topo. Nesse
+relatório de segurança, intitule esse bloco "Ponto de salvamento" (mesmos
+campos) e reutilize o mesmo nome de arquivo a cada salvamento: o mais
+recente substitui o anterior, e a pessoa só precisa guardar o último. Se a
+pessoa disser que não quer esses arquivos, pare de gerá-los. Não gere em
+sessões curtas.
 
 **Aviso sobre limites de uso (uma única vez, ao fim da entrevista de
 contexto).** Diga em uma ou duas frases que, em planos gratuitos de IA, o
@@ -590,7 +603,7 @@ correspondente)
 ## Atualidade do texto
 - **Data do texto:** [ano; edição; ano do original, se for tradução ou condensado]
 
-| Afirmação do texto | Situação | Atualização | Fonte (verificada na sessão / de memória) |
+| Afirmação do texto | Situação | Atualização | Fonte (verificada na sessão, primária ou secundária / de memória) |
 |---|---|---|---|
 | [afirmação] | [mantida / refinada / contestada / superada] | [o que mudou] | [autor, ano, link] |
 
