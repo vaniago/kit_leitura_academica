@@ -43,7 +43,7 @@ pedagógica própria:
    compreensão), as dúvidas levantadas no fechamento, a tabela de
    atualidade do artigo e as questões abertas. Se a pessoa pedir para
    pausar (inclusive por urgência), gera na hora um roteiro parcial para
-   retomar depois, em outra conversa, anexando-o junto com o texto.
+   retomar depois, em outra conversa, anexando-o junto com o texto. Em sessões longas, a skill também entrega, sem interromper, um relatório parcial de segurança no meio do percurso.
 
 Pensada especialmente para quem tem dificuldade de manter atenção em
 textos longos, mas é genérica: aplica-se a qualquer artigo, de qualquer

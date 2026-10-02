@@ -25,7 +25,7 @@ o caminho que o texto percorre, centrada no leitor e no seu contexto:
    discordância fundamentada no relatório, como contribuição dele para
    seminários e debates. Permite
    pausar a qualquer momento (inclusive por urgência) e retomar depois, em
-   outra conversa, anexando o relatório parcial e o texto.
+   outra conversa, anexando o relatório parcial e o texto. Em sessões longas, a skill também entrega, sem interromper, um relatório parcial de segurança no meio do percurso.
 6. Ao final, compara o que o leitor sabia antes com o que consegue
    articular depois, e mostra o progresso de forma concreta.
 7. Gera um arquivo `.md` com o relatório da sessão (incluindo a tabela de

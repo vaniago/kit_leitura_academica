@@ -40,7 +40,7 @@ Pensada especialmente para estudantes de ensino médio e início de
 graduação trabalhando leitura literária, mas serve para qualquer pessoa
 estudando uma obra literária de forma acompanhada.
 
-**Pausa e retomada.** Se você precisar parar a qualquer momento (inclusive por urgência), basta avisar: a skill gera na hora um arquivo `_PARCIAL.md` com o ponto em que parou e como retomar. Para continuar depois, abra uma nova conversa, peça a mesma skill e anexe o arquivo parcial e a obra.
+**Pausa e retomada.** Se você precisar parar a qualquer momento (inclusive por urgência), basta avisar: a skill gera na hora um arquivo `_PARCIAL.md` com o ponto em que parou e como retomar. Para continuar depois, abra uma nova conversa, peça a mesma skill e anexe o arquivo parcial e a obra. Em sessões longas, a skill também entrega, sem interromper, um relatório parcial de segurança no meio do percurso.
 
 ## Instalação
 

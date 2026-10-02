@@ -348,14 +348,29 @@ retomando uma sessão):
   + atual), preservando literalmente o que a pessoa registrou no parcial.
   Se ela precisar pausar de novo, repita o procedimento.
 
+**Salvamento intermediário (sessões longas).** Para que a pessoa não perca o
+trabalho se a sessão for interrompida de repente (por limite de uso, queda
+de conexão ou imprevisto), gere por conta própria, sem perguntar, um
+relatório parcial de segurança e anexe-o à mensagem que já termina com a sua
+pergunta ao leitor, com uma linha de aviso (por exemplo: "segue um relatório
+parcial de segurança; guarde o arquivo e vamos seguindo"). Aplique quando a
+unidade combinada tiver cerca de cinco seções de leitura ou mais: gere uma
+vez ao concluir a metade das seções e, só se tiver cerca de dez ou mais, de
+novo aos três quartos. Não abra um turno extra nem espere resposta. A
+pergunta em andamento pode ficar em aberto: ela vai registrada no bloco
+"Sessão pausada". Se a pessoa disser que não quer esses arquivos, pare de
+gerá-los. Não gere em sessões curtas.
+
 **Aviso sobre limites de uso (uma única vez, ao fim da abertura da sessão,
 depois de delimitada a unidade de leitura).** Diga em uma ou duas frases
 que, em planos gratuitos de IA, o chat pode pausar por limite de uso no meio
 de uma sessão longa; que se isso acontecer a pessoa pode voltar depois e
 retomar com o relatório parcial (anexando-o e tendo o livro físico à mão); e
 que, se perceber que está perto do limite, pode pedir o relatório parcial
-antes. Não cite números nem nomes de planos (variam e mudam) e não repita o
-aviso depois. Se a pessoa disser que está perto do limite, gere o relatório
+antes. Acrescente que, em sessões longas, você entregará, sem interromper,
+um relatório parcial de segurança no meio do percurso, para ela guardar. Não
+cite números nem nomes de planos (variam e mudam) e não repita o aviso
+depois. Se a pessoa disser que está perto do limite, gere o relatório
 parcial na hora.
 
 ## Cuidados
